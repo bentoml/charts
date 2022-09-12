@@ -3,7 +3,7 @@ entries:
   yatai:
   - apiVersion: v2
     appVersion: 1.0.0-a0
-    created: "2022-09-08T10:42:17.729359699Z"
+    created: "2022-09-12T16:36:47.962308158Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -23,8 +23,18 @@ entries:
     version: 1.0.0-a0
   yatai-deployment:
   - apiVersion: v2
+    appVersion: 1.0.0-a1
+    created: "2022-09-12T16:36:47.96420579Z"
+    description: The deployment component for Yatai
+    digest: 69690744e7e789639a2b55d103bfaa4ebb3ec2309d3782223b778945a6efdd0a
+    name: yatai-deployment
+    type: application
+    urls:
+    - packages/yatai-deployment-1.0.0-a1.tgz
+    version: 1.0.0-a1
+  - apiVersion: v2
     appVersion: 1.0.0-a0
-    created: "2022-09-08T10:42:17.731934406Z"
+    created: "2022-09-12T16:36:47.963349075Z"
     description: The deployment component for Yatai
     digest: 854998b2f2600d885459a097a930fc8f36eacbbc8e46e9375fa1f6bb54bf5db2
     name: yatai-deployment
@@ -32,4 +42,4 @@ entries:
     urls:
     - packages/yatai-deployment-1.0.0-a0.tgz
     version: 1.0.0-a0
-generated: "2022-09-08T10:42:17.726070955Z"
+generated: "2022-09-12T16:36:47.959933517Z"
