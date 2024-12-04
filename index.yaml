@@ -3,7 +3,7 @@ entries:
   yatai:
   - apiVersion: v2
     appVersion: 1.1.13
-    created: "2024-12-04T09:53:59.701600907Z"
+    created: "2024-12-04T10:51:17.694648931Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -23,7 +23,7 @@ entries:
     version: 1.1.13
   - apiVersion: v2
     appVersion: 1.1.12
-    created: "2024-12-04T09:53:59.700436139Z"
+    created: "2024-12-04T10:51:17.692582505Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -43,7 +43,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.1.11
-    created: "2024-12-04T09:53:59.699325312Z"
+    created: "2024-12-04T10:51:17.690545875Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -63,7 +63,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.1.10
-    created: "2024-12-04T09:53:59.698202113Z"
+    created: "2024-12-04T10:51:17.688473068Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -83,7 +83,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.1.9
-    created: "2024-12-04T09:53:59.712495004Z"
+    created: "2024-12-04T10:51:17.707287913Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -103,7 +103,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.1.8
-    created: "2024-12-04T09:53:59.710375086Z"
+    created: "2024-12-04T10:51:17.706154164Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -123,7 +123,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.1.7
-    created: "2024-12-04T09:53:59.709213464Z"
+    created: "2024-12-04T10:51:17.704966143Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -143,7 +143,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
-    created: "2024-12-04T09:53:59.708013992Z"
+    created: "2024-12-04T10:51:17.703814349Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -163,7 +163,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
-    created: "2024-12-04T09:53:59.706859894Z"
+    created: "2024-12-04T10:51:17.702648089Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -183,7 +183,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2024-12-04T09:53:59.705700828Z"
+    created: "2024-12-04T10:51:17.701492398Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -203,7 +203,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2024-12-04T09:53:59.704505774Z"
+    created: "2024-12-04T10:51:17.698751496Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -223,7 +223,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2024-12-04T09:53:59.702709789Z"
+    created: "2024-12-04T10:51:17.696626271Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -243,7 +243,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-12-04T09:53:59.697032296Z"
+    created: "2024-12-04T10:51:17.686053898Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -263,7 +263,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-12-04T09:53:59.695033579Z"
+    created: "2024-12-04T10:51:17.684908807Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -283,7 +283,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2024-12-04T09:53:59.684024495Z"
+    created: "2024-12-04T10:51:17.673857471Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -303,7 +303,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2024-12-04T09:53:59.68289857Z"
+    created: "2024-12-04T10:51:17.67250283Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -323,7 +323,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2024-12-04T09:53:59.68161972Z"
+    created: "2024-12-04T10:51:17.670431172Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -343,7 +343,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2024-12-04T09:53:59.693928433Z"
+    created: "2024-12-04T10:51:17.683803109Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -363,7 +363,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2024-12-04T09:53:59.692836863Z"
+    created: "2024-12-04T10:51:17.682658629Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -383,7 +383,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2024-12-04T09:53:59.691703947Z"
+    created: "2024-12-04T10:51:17.681558061Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -403,7 +403,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2024-12-04T09:53:59.690604952Z"
+    created: "2024-12-04T10:51:17.680345685Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -423,7 +423,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-12-04T09:53:59.689411702Z"
+    created: "2024-12-04T10:51:17.678213958Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -443,7 +443,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2024-12-04T09:53:59.687454217Z"
+    created: "2024-12-04T10:51:17.67711893Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -463,7 +463,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2024-12-04T09:53:59.686318294Z"
+    created: "2024-12-04T10:51:17.676054288Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -483,7 +483,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-12-04T09:53:59.685178192Z"
+    created: "2024-12-04T10:51:17.674958239Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -503,7 +503,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-12-04T09:53:59.679240267Z"
+    created: "2024-12-04T10:51:17.669294056Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -523,7 +523,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-04T09:53:59.677731346Z"
+    created: "2024-12-04T10:51:17.668149215Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -543,7 +543,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.0.0-a1
-    created: "2024-12-04T09:53:59.67610188Z"
+    created: "2024-12-04T10:51:17.666837865Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -563,7 +563,7 @@ entries:
     version: 1.0.0-a1
   - apiVersion: v2
     appVersion: 1.0.0-a0
-    created: "2024-12-04T09:53:59.674829812Z"
+    created: "2024-12-04T10:51:17.66568512Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -584,7 +584,7 @@ entries:
   yatai-cacher:
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2024-12-04T09:53:59.712864274Z"
+    created: "2024-12-04T10:51:17.708422625Z"
     description: The cacher component for Yatai
     digest: 21b5c843c53a55a2224a62fc90915d8bf976b43f08afd166b62865db8fe0daac
     name: yatai-cacher
@@ -595,7 +595,7 @@ entries:
   yatai-cacher-crds:
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2024-12-04T09:53:59.713093302Z"
+    created: "2024-12-04T10:51:17.708872962Z"
     description: A Helm chart for Kubernetes
     digest: 4eb689115f186fad054110b3f11ea46c852f5d62d696405f6ef1ffd84a86cf4d
     name: yatai-cacher-crds
@@ -606,7 +606,7 @@ entries:
   yatai-deployment:
   - apiVersion: v2
     appVersion: 1.1.21
-    created: "2024-12-04T09:53:59.742681225Z"
+    created: "2024-12-04T10:51:17.745838313Z"
     description: The deployment component for Yatai
     digest: 8b5300e36b0f9fe277bb2b3785c2b5e74db43ee45441b47a287c5ff5fae72f09
     name: yatai-deployment
@@ -616,7 +616,7 @@ entries:
     version: 1.1.21
   - apiVersion: v2
     appVersion: 1.1.20
-    created: "2024-12-04T09:53:59.742115267Z"
+    created: "2024-12-04T10:51:17.744924434Z"
     description: The deployment component for Yatai
     digest: d4cd0554ee12c1e8a2ecb91f79111a5182bc8c1e2825d8d3a9be33b3fac18373
     name: yatai-deployment
@@ -626,7 +626,7 @@ entries:
     version: 1.1.20
   - apiVersion: v2
     appVersion: 1.1.19
-    created: "2024-12-04T09:53:59.74034216Z"
+    created: "2024-12-04T10:51:17.743293599Z"
     description: The deployment component for Yatai
     digest: 3b24afa57c0a67dcab9eb21d594fc0a1bd42d881db9b7ae1725445822b6b4f96
     name: yatai-deployment
@@ -636,7 +636,7 @@ entries:
     version: 1.1.19
   - apiVersion: v2
     appVersion: 1.1.18
-    created: "2024-12-04T09:53:59.739809495Z"
+    created: "2024-12-04T10:51:17.742749446Z"
     description: The deployment component for Yatai
     digest: 302ecac9c7d014a91dfbecc7a4db4df330719c62d8652fac0bcd6c8db701a546
     name: yatai-deployment
@@ -646,7 +646,7 @@ entries:
     version: 1.1.18
   - apiVersion: v2
     appVersion: 1.1.17
-    created: "2024-12-04T09:53:59.739292608Z"
+    created: "2024-12-04T10:51:17.742236191Z"
     description: The deployment component for Yatai
     digest: bfb91a48e090eab419c68153c48076761c36c0101777429aeee2af683a6e2cf2
     name: yatai-deployment
@@ -656,7 +656,7 @@ entries:
     version: 1.1.17
   - apiVersion: v2
     appVersion: 1.1.16
-    created: "2024-12-04T09:53:59.738740777Z"
+    created: "2024-12-04T10:51:17.741704532Z"
     description: The deployment component for Yatai
     digest: 1f958201251b677c0ee999da78d322fc58ec590ea836841a0d389071b610527b
     name: yatai-deployment
@@ -666,7 +666,7 @@ entries:
     version: 1.1.16
   - apiVersion: v2
     appVersion: 1.1.15
-    created: "2024-12-04T09:53:59.738224432Z"
+    created: "2024-12-04T10:51:17.741161081Z"
     description: The deployment component for Yatai
     digest: 11bf130ad2af71bce0f8f2ff4cbda87d31bf8b5d5239c22e5f0a4e1c2caf9a8d
     name: yatai-deployment
@@ -676,7 +676,7 @@ entries:
     version: 1.1.15
   - apiVersion: v2
     appVersion: 1.1.14
-    created: "2024-12-04T09:53:59.7376997Z"
+    created: "2024-12-04T10:51:17.740609845Z"
     description: The deployment component for Yatai
     digest: 9c9546e29ea5ab82ff1501a58b94c5a9eb8edd1b1def5b8e4424932697cfeb7c
     name: yatai-deployment
@@ -686,7 +686,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: 1.1.13
-    created: "2024-12-04T09:53:59.737171042Z"
+    created: "2024-12-04T10:51:17.740091079Z"
     description: The deployment component for Yatai
     digest: f1d76b77b3bf0f3c4b6e0374141c6ea9e65e16159ead7e6eaca050f9dcd451ed
     name: yatai-deployment
@@ -696,7 +696,7 @@ entries:
     version: 1.1.13
   - apiVersion: v2
     appVersion: 1.1.12
-    created: "2024-12-04T09:53:59.736650038Z"
+    created: "2024-12-04T10:51:17.739539332Z"
     description: The deployment component for Yatai
     digest: 976b3df3102b914dcd794930882852ecd699e6a0050cefffc916b52c6ffb3c6b
     name: yatai-deployment
@@ -706,7 +706,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.1.11
-    created: "2024-12-04T09:53:59.736099198Z"
+    created: "2024-12-04T10:51:17.739032168Z"
     description: The deployment component for Yatai
     digest: 55a8e8b09fb559a5a0cd8d95b06ec78b9982c19618ecc8201abd366622a9ce85
     name: yatai-deployment
@@ -716,7 +716,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.1.10
-    created: "2024-12-04T09:53:59.73558643Z"
+    created: "2024-12-04T10:51:17.738526257Z"
     description: The deployment component for Yatai
     digest: 43b35853366a5090bf9457944dd4ef1fcdd3f5c3d61ad077769f84f79df3a775
     name: yatai-deployment
@@ -726,7 +726,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.1.9
-    created: "2024-12-04T09:53:59.746225931Z"
+    created: "2024-12-04T10:51:17.749389731Z"
     description: The deployment component for Yatai
     digest: d156f50d062dd29fd01adf66e61788ca6377b031f0ca167a38449101bccb5ec8
     name: yatai-deployment
@@ -736,7 +736,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.1.8
-    created: "2024-12-04T09:53:59.745709335Z"
+    created: "2024-12-04T10:51:17.748866989Z"
     description: The deployment component for Yatai
     digest: 1a791cf2753368253f08b32a4526a1b4d4013301bc3e62ab637d6d82da75fab3
     name: yatai-deployment
@@ -746,7 +746,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.1.7
-    created: "2024-12-04T09:53:59.745214911Z"
+    created: "2024-12-04T10:51:17.748345198Z"
     description: The deployment component for Yatai
     digest: 1533fb5db12499bb8b7895a67cdde26da6f18919148e55f0d48fd45fc049478f
     name: yatai-deployment
@@ -756,7 +756,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
-    created: "2024-12-04T09:53:59.744704607Z"
+    created: "2024-12-04T10:51:17.747857951Z"
     description: The deployment component for Yatai
     digest: d0e7f10ce090e17871202af9bfabb091f2d49f7d8cf5cae8b37149544bd4a1c2
     name: yatai-deployment
@@ -766,7 +766,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
-    created: "2024-12-04T09:53:59.744173945Z"
+    created: "2024-12-04T10:51:17.747360385Z"
     description: The deployment component for Yatai
     digest: 7ee67c1f2755335280dde9fe79e37c4a282c603f0e7ab408a241e10265a53d31
     name: yatai-deployment
@@ -776,7 +776,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2024-12-04T09:53:59.743683368Z"
+    created: "2024-12-04T10:51:17.746852209Z"
     description: The deployment component for Yatai
     digest: aedd6d932abf5175a84c208f3696e068ef3744bb99484af8640823609c371c42
     name: yatai-deployment
@@ -786,7 +786,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2024-12-04T09:53:59.743171041Z"
+    created: "2024-12-04T10:51:17.746355625Z"
     description: The deployment component for Yatai
     digest: 0caaf489751d4dcb3dd7dafb6dc3d13c508e28967a2ea6f67156b2ff3a1899d3
     name: yatai-deployment
@@ -796,7 +796,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2024-12-04T09:53:59.741398265Z"
+    created: "2024-12-04T10:51:17.74380446Z"
     description: The deployment component for Yatai
     digest: fb201e27afaa8ff1ff925b95dbea7d9873edd86791d67be3918ea65d32e440e8
     name: yatai-deployment
@@ -806,7 +806,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-12-04T09:53:59.735013078Z"
+    created: "2024-12-04T10:51:17.737985641Z"
     description: The deployment component for Yatai
     digest: 956ee1ab251c5c5daa957708b131206fb512157798e9ecdfca0533f7c62ebdb7
     name: yatai-deployment
@@ -816,7 +816,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-12-04T09:53:59.734091371Z"
+    created: "2024-12-04T10:51:17.736796115Z"
     description: The deployment component for Yatai
     digest: 0f1b26bd1fd3a35f6815eac31c7df9f2129d4966b5e89d54aaea5f7a7dd359f3
     name: yatai-deployment
@@ -826,7 +826,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.13
-    created: "2024-12-04T09:53:59.725119443Z"
+    created: "2024-12-04T10:51:17.727590183Z"
     description: The deployment component for Yatai
     digest: 3794329c23b1ffc0eacce97cf5980c1683764ad04613e0c946d8e3d78cd18b5b
     name: yatai-deployment
@@ -836,7 +836,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2024-12-04T09:53:59.72412275Z"
+    created: "2024-12-04T10:51:17.726624897Z"
     description: The deployment component for Yatai
     digest: 10c8e4fbfd8b3ac60c4518726508a57d47e903abbf3099b9784cc3112a2bbe11
     name: yatai-deployment
@@ -846,7 +846,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2024-12-04T09:53:59.722367709Z"
+    created: "2024-12-04T10:51:17.724276016Z"
     description: The deployment component for Yatai
     digest: 6707e19c4b78fe3411d773e37666d774d88da6ab0fcc529e8e65e1f53906b01d
     name: yatai-deployment
@@ -856,7 +856,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2024-12-04T09:53:59.721242575Z"
+    created: "2024-12-04T10:51:17.722599466Z"
     description: The deployment component for Yatai
     digest: 48e42c92ddcec3c56cdbe85cdcbcb2c7d5547e1dbf4b66fef9cf8d2f15d186ad
     name: yatai-deployment
@@ -866,7 +866,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2024-12-04T09:53:59.73333127Z"
+    created: "2024-12-04T10:51:17.736092185Z"
     description: The deployment component for Yatai
     digest: 42139c93bfac028ec36c606cbc9938dc56df03132ddf8f2dc4c3aa918e3762ad
     name: yatai-deployment
@@ -876,7 +876,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2024-12-04T09:53:59.732362069Z"
+    created: "2024-12-04T10:51:17.735172103Z"
     description: The deployment component for Yatai
     digest: 4dd66b0d8498bc0706f43d647761df777f5db43f1244459155089cc2e991b583
     name: yatai-deployment
@@ -886,7 +886,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2024-12-04T09:53:59.731433062Z"
+    created: "2024-12-04T10:51:17.734225551Z"
     description: The deployment component for Yatai
     digest: 3a7cef4029fbe001f1908d5f539d02ca71290dd4a76baac053e6d146e55e10a3
     name: yatai-deployment
@@ -896,7 +896,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2024-12-04T09:53:59.730500979Z"
+    created: "2024-12-04T10:51:17.733250537Z"
     description: The deployment component for Yatai
     digest: eb2a43a0d5b82367a4ec7dd3bb2635645f71efd760da8ea0e204fa5303003003
     name: yatai-deployment
@@ -906,7 +906,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-12-04T09:53:59.729546325Z"
+    created: "2024-12-04T10:51:17.732270864Z"
     description: The deployment component for Yatai
     digest: 2f165f85a6727698b3ff7b077595b36b7411a27b3e9004e626a01f4bfb66ca41
     name: yatai-deployment
@@ -916,7 +916,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2024-12-04T09:53:59.727852612Z"
+    created: "2024-12-04T10:51:17.730391707Z"
     description: The deployment component for Yatai
     digest: 33782cd2dc0976c9b87211a1e3d84d7be6e56c239434a48f133832442830eaa5
     name: yatai-deployment
@@ -926,7 +926,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2024-12-04T09:53:59.72694774Z"
+    created: "2024-12-04T10:51:17.729471294Z"
     description: The deployment component for Yatai
     digest: 479c5ae7292fdf18bc4cb83a508b626a21ada480e111cc2064d0546f1853284f
     name: yatai-deployment
@@ -936,7 +936,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-12-04T09:53:59.72603805Z"
+    created: "2024-12-04T10:51:17.728542806Z"
     description: The deployment component for Yatai
     digest: 9290eeb2a47a8856613a3fd4a74ace0e31f636b90c9f2cb3facdd59cfd186f3d
     name: yatai-deployment
@@ -946,7 +946,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-12-04T09:53:59.720249008Z"
+    created: "2024-12-04T10:51:17.720900154Z"
     description: The deployment component for Yatai
     digest: af92bae608569a8e0eac42943e583041d70a12dfa1798af5b26c30d31c85d00a
     name: yatai-deployment
@@ -956,7 +956,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-04T09:53:59.719333546Z"
+    created: "2024-12-04T10:51:17.719271914Z"
     description: The deployment component for Yatai
     digest: 938dd77232d2b3eedf9582690131f2135551e39e4b19eafa3b8b92b42792b557
     name: yatai-deployment
@@ -966,7 +966,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.0.0-a5
-    created: "2024-12-04T09:53:59.71841518Z"
+    created: "2024-12-04T10:51:17.717616613Z"
     description: The deployment component for Yatai
     digest: 7aad96692cb054fcee5571077ad14168de4b00e8311f6bb8895aea3615ffaa1c
     name: yatai-deployment
@@ -976,7 +976,7 @@ entries:
     version: 1.0.0-a5
   - apiVersion: v2
     appVersion: 1.0.0-a4
-    created: "2024-12-04T09:53:59.716809409Z"
+    created: "2024-12-04T10:51:17.715321191Z"
     description: The deployment component for Yatai
     digest: be8d0ced6786f3731a94a3fadf65d5ba74dfc5908087fc8a8889fc151682e71f
     name: yatai-deployment
@@ -986,7 +986,7 @@ entries:
     version: 1.0.0-a4
   - apiVersion: v2
     appVersion: 1.0.0-a3
-    created: "2024-12-04T09:53:59.715833665Z"
+    created: "2024-12-04T10:51:17.713674076Z"
     description: The deployment component for Yatai
     digest: 3fd2bdfb3ca23b6234e80519997baf60de1b0d20aadf143ff0766e51e39b742a
     name: yatai-deployment
@@ -996,7 +996,7 @@ entries:
     version: 1.0.0-a3
   - apiVersion: v2
     appVersion: 1.0.0-a2
-    created: "2024-12-04T09:53:59.714849906Z"
+    created: "2024-12-04T10:51:17.712067807Z"
     description: The deployment component for Yatai
     digest: 5f3b1973cf07a2f3658938d42f4534115e22bb48af61de2c1091012973713bf6
     name: yatai-deployment
@@ -1006,7 +1006,7 @@ entries:
     version: 1.0.0-a2
   - apiVersion: v2
     appVersion: 1.0.0-a1
-    created: "2024-12-04T09:53:59.714266866Z"
+    created: "2024-12-04T10:51:17.711025317Z"
     description: The deployment component for Yatai
     digest: 69690744e7e789639a2b55d103bfaa4ebb3ec2309d3782223b778945a6efdd0a
     name: yatai-deployment
@@ -1016,7 +1016,7 @@ entries:
     version: 1.0.0-a1
   - apiVersion: v2
     appVersion: 1.0.0-a0
-    created: "2024-12-04T09:53:59.713675831Z"
+    created: "2024-12-04T10:51:17.709975533Z"
     description: The deployment component for Yatai
     digest: 854998b2f2600d885459a097a930fc8f36eacbbc8e46e9375fa1f6bb54bf5db2
     name: yatai-deployment
@@ -1027,7 +1027,7 @@ entries:
   yatai-deployment-crds:
   - apiVersion: v2
     appVersion: 1.1.21
-    created: "2024-12-04T09:53:59.778351563Z"
+    created: "2024-12-04T10:51:17.784022494Z"
     description: A Helm chart for Kubernetes
     digest: 53b35b816bd4bb4f189a94aa13477558e7cd4a5bd991b7adac64c623181b90ab
     name: yatai-deployment-crds
@@ -1037,7 +1037,7 @@ entries:
     version: 1.1.21
   - apiVersion: v2
     appVersion: 1.1.20
-    created: "2024-12-04T09:53:59.776465537Z"
+    created: "2024-12-04T10:51:17.782124332Z"
     description: A Helm chart for Kubernetes
     digest: 2e4076c94aeacd7e1bd55f569aaf370b78c0fc47208d6fb0e6c1d87091d9693b
     name: yatai-deployment-crds
@@ -1047,7 +1047,7 @@ entries:
     version: 1.1.20
   - apiVersion: v2
     appVersion: 1.1.19
-    created: "2024-12-04T09:53:59.772346941Z"
+    created: "2024-12-04T10:51:17.777928922Z"
     description: A Helm chart for Kubernetes
     digest: c7708a4cb2d8fd9507c9bb9b04aedfdf53074de2fa107c84bfa5b035374bf587
     name: yatai-deployment-crds
@@ -1057,7 +1057,7 @@ entries:
     version: 1.1.19
   - apiVersion: v2
     appVersion: 1.1.18
-    created: "2024-12-04T09:53:59.769924624Z"
+    created: "2024-12-04T10:51:17.774672304Z"
     description: A Helm chart for Kubernetes
     digest: 06440b247a777f67471248b475ad4973c9abd8ba0c4d90b3044c56d848ed4471
     name: yatai-deployment-crds
@@ -1067,7 +1067,7 @@ entries:
     version: 1.1.18
   - apiVersion: v2
     appVersion: 1.1.17
-    created: "2024-12-04T09:53:59.768021246Z"
+    created: "2024-12-04T10:51:17.772747952Z"
     description: A Helm chart for Kubernetes
     digest: 820ec7bbd910983edf71054d33d9566feb3abb4b0574f6dc2d22030cba246f7b
     name: yatai-deployment-crds
@@ -1077,7 +1077,7 @@ entries:
     version: 1.1.17
   - apiVersion: v2
     appVersion: 1.1.16
-    created: "2024-12-04T09:53:59.766128969Z"
+    created: "2024-12-04T10:51:17.770028399Z"
     description: A Helm chart for Kubernetes
     digest: 8731f77c0b5a590d616fdb7cde39942ee3cb653c4e7ba22942b79917f1917cd4
     name: yatai-deployment-crds
@@ -1087,7 +1087,7 @@ entries:
     version: 1.1.16
   - apiVersion: v2
     appVersion: 1.1.15
-    created: "2024-12-04T09:53:59.763681501Z"
+    created: "2024-12-04T10:51:17.768121991Z"
     description: A Helm chart for Kubernetes
     digest: 43029c4996695cce84abdeb96771a6f4678b916561d71597e03df3cf2ff8c787
     name: yatai-deployment-crds
@@ -1097,7 +1097,7 @@ entries:
     version: 1.1.15
   - apiVersion: v2
     appVersion: 1.1.14
-    created: "2024-12-04T09:53:59.761623831Z"
+    created: "2024-12-04T10:51:17.766078198Z"
     description: A Helm chart for Kubernetes
     digest: 93f392269161de5b9926c685c49fd54c6708c649e1339a01084cb6374928331e
     name: yatai-deployment-crds
@@ -1107,7 +1107,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: 1.1.13
-    created: "2024-12-04T09:53:59.759262166Z"
+    created: "2024-12-04T10:51:17.763566514Z"
     description: A Helm chart for Kubernetes
     digest: 502e868133ec0a8a87d92364940168ed132e323e1a88b28a0d638be5835a464e
     name: yatai-deployment-crds
@@ -1117,7 +1117,7 @@ entries:
     version: 1.1.13
   - apiVersion: v2
     appVersion: 1.1.12
-    created: "2024-12-04T09:53:59.757409844Z"
+    created: "2024-12-04T10:51:17.761695743Z"
     description: A Helm chart for Kubernetes
     digest: c0739391edaace0ddcd7ae1c8aa49df9ec308b6bf53564758948a055b24cb184
     name: yatai-deployment-crds
@@ -1127,7 +1127,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.1.11
-    created: "2024-12-04T09:53:59.754656968Z"
+    created: "2024-12-04T10:51:17.758890973Z"
     description: A Helm chart for Kubernetes
     digest: e4038705f4b28d4fc8901ff275902605e8219910505975656b27a782178a6cff
     name: yatai-deployment-crds
@@ -1137,7 +1137,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.1.10
-    created: "2024-12-04T09:53:59.75203946Z"
+    created: "2024-12-04T10:51:17.755657125Z"
     description: A Helm chart for Kubernetes
     digest: 5084ba1b5866baf459b6a7f8ab12f9193ea1ca7b6cd2aeac6070e3126d6a13c6
     name: yatai-deployment-crds
@@ -1147,7 +1147,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.1.9
-    created: "2024-12-04T09:53:59.792010282Z"
+    created: "2024-12-04T10:51:17.800483295Z"
     description: A Helm chart for Kubernetes
     digest: 9b749ec012c86508077a3e827f283a771b292068f6f0dbebe2e928dace7ebedf
     name: yatai-deployment-crds
@@ -1157,7 +1157,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.1.8
-    created: "2024-12-04T09:53:59.790160654Z"
+    created: "2024-12-04T10:51:17.797454972Z"
     description: A Helm chart for Kubernetes
     digest: a6dfee55d1beec90920a54b213b4d098cbb6f059f1c81bdf95fc533032ad1890
     name: yatai-deployment-crds
@@ -1167,7 +1167,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.1.7
-    created: "2024-12-04T09:53:59.787714426Z"
+    created: "2024-12-04T10:51:17.795547582Z"
     description: A Helm chart for Kubernetes
     digest: fc9f124b31dc1b00b7e84f803469b88daf316ed3aa23ee79d0af5082fdde00aa
     name: yatai-deployment-crds
@@ -1177,7 +1177,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
-    created: "2024-12-04T09:53:59.785830253Z"
+    created: "2024-12-04T10:51:17.793291253Z"
     description: A Helm chart for Kubernetes
     digest: 8a1b468afd884435ac8b9714005f24386c046718802001348ef183d79e88ae71
     name: yatai-deployment-crds
@@ -1187,7 +1187,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
-    created: "2024-12-04T09:53:59.784190839Z"
+    created: "2024-12-04T10:51:17.791246488Z"
     description: A Helm chart for Kubernetes
     digest: f29bb291d408188d6b6edd173a64264cf6b5895080717cf7044989f4d2d27ace
     name: yatai-deployment-crds
@@ -1197,7 +1197,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2024-12-04T09:53:59.782180023Z"
+    created: "2024-12-04T10:51:17.789701002Z"
     description: A Helm chart for Kubernetes
     digest: 85c0459da8ac163b40364afcc76ba04b8141fd235f0971f252980f0ef7c266f7
     name: yatai-deployment-crds
@@ -1207,7 +1207,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2024-12-04T09:53:59.780591473Z"
+    created: "2024-12-04T10:51:17.78654679Z"
     description: A Helm chart for Kubernetes
     digest: 6254a7fd9955c7eee31c7e204a6c70a3344a6be6818e4e53627279d000a2e87f
     name: yatai-deployment-crds
@@ -1217,7 +1217,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2024-12-04T09:53:59.774480516Z"
+    created: "2024-12-04T10:51:17.779498783Z"
     description: A Helm chart for Kubernetes
     digest: f3df6cfcd4e443fde2e9a9cab02a35f64c77833b50a1bf0fba317747689cd5c7
     name: yatai-deployment-crds
@@ -1227,7 +1227,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-12-04T09:53:59.750180574Z"
+    created: "2024-12-04T10:51:17.753580521Z"
     description: A Helm chart for Kubernetes
     digest: e7df592cdecca88bbd99dd63ca905d91b1e3f9083fe3b0c2bd04f0866fb015fb
     name: yatai-deployment-crds
@@ -1237,7 +1237,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-12-04T09:53:59.748328452Z"
+    created: "2024-12-04T10:51:17.751480763Z"
     description: A Helm chart for Kubernetes
     digest: bddf12e359e8148a0697438176711711763ca174a4204b2f758c7ba63a950664
     name: yatai-deployment-crds
@@ -1248,7 +1248,7 @@ entries:
   yatai-image-builder:
   - apiVersion: v2
     appVersion: 2.1.19
-    created: "2024-12-04T09:53:59.85325386Z"
+    created: "2024-12-04T10:51:17.881523245Z"
     description: The image-builder component for Yatai
     digest: bfaa0f67e731859fc921c665f6167dfa18cbe086f8adffc4e09b7c3db337dc4a
     name: yatai-image-builder
@@ -1258,7 +1258,7 @@ entries:
     version: 2.1.19
   - apiVersion: v2
     appVersion: 2.1.18
-    created: "2024-12-04T09:53:59.852618763Z"
+    created: "2024-12-04T10:51:17.880212466Z"
     description: The image-builder component for Yatai
     digest: 01b7f39e8c15c5bb88fdbbe2705b9f4fa67df3da7e94a19f94fae01dfa3c4098
     name: yatai-image-builder
@@ -1268,7 +1268,7 @@ entries:
     version: 2.1.18
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-04T09:53:59.851476013Z"
+    created: "2024-12-04T10:51:17.878656683Z"
     description: The image-builder component for Yatai
     digest: e6bd899cf22bd34041fd87bef57073c52a3b6d17bc59469cb3980452b89dbd87
     name: yatai-image-builder
@@ -1278,7 +1278,7 @@ entries:
     version: 2.1.17
   - apiVersion: v2
     appVersion: 2.1.16
-    created: "2024-12-04T09:53:59.850789199Z"
+    created: "2024-12-04T10:51:17.878034916Z"
     description: The image-builder component for Yatai
     digest: 88fe9104a905c4498b6a8b875568a7e5c6d110faff04925d808bf2a5d06a06c4
     name: yatai-image-builder
@@ -1288,7 +1288,7 @@ entries:
     version: 2.1.16
   - apiVersion: v2
     appVersion: 2.1.15
-    created: "2024-12-04T09:53:59.850194528Z"
+    created: "2024-12-04T10:51:17.877415073Z"
     description: The image-builder component for Yatai
     digest: 4283ccf9df26025edb22c8ca231eaae87fdd078b2ccea291438a909537ee9ddd
     name: yatai-image-builder
@@ -1298,7 +1298,7 @@ entries:
     version: 2.1.15
   - apiVersion: v2
     appVersion: 2.1.14
-    created: "2024-12-04T09:53:59.849606729Z"
+    created: "2024-12-04T10:51:17.876796431Z"
     description: The image-builder component for Yatai
     digest: 77f974a8796ccd5b11730e4ee34f320f64baf3ba1c67bf8c8dc7c7384e646bba
     name: yatai-image-builder
@@ -1308,7 +1308,7 @@ entries:
     version: 2.1.14
   - apiVersion: v2
     appVersion: 2.1.13
-    created: "2024-12-04T09:53:59.849034369Z"
+    created: "2024-12-04T10:51:17.87619936Z"
     description: The image-builder component for Yatai
     digest: e1289b65275177b29256b63e72c1b444a047802537d40aba5e430a18b71fa455
     name: yatai-image-builder
@@ -1318,7 +1318,7 @@ entries:
     version: 2.1.13
   - apiVersion: v2
     appVersion: 2.1.12
-    created: "2024-12-04T09:53:59.848419519Z"
+    created: "2024-12-04T10:51:17.875620293Z"
     description: The image-builder component for Yatai
     digest: 7bbfb4bc1e6afa71658c3925cd3ff8ecec3b15ed0cf0507b64951740e972e3dc
     name: yatai-image-builder
@@ -1328,7 +1328,7 @@ entries:
     version: 2.1.12
   - apiVersion: v2
     appVersion: 2.1.11
-    created: "2024-12-04T09:53:59.847791124Z"
+    created: "2024-12-04T10:51:17.875010347Z"
     description: The image-builder component for Yatai
     digest: 946483a5f274c191f68419d99b7a671c9accd73d144fe1076d55e3175cb9ed11
     name: yatai-image-builder
@@ -1338,7 +1338,7 @@ entries:
     version: 2.1.11
   - apiVersion: v2
     appVersion: 2.1.10
-    created: "2024-12-04T09:53:59.847207914Z"
+    created: "2024-12-04T10:51:17.874412365Z"
     description: The image-builder component for Yatai
     digest: de663ae6d4e50db64c26c8e48b175e6afcbda69bc2aff300da05e12a5ae01ef4
     name: yatai-image-builder
@@ -1348,7 +1348,7 @@ entries:
     version: 2.1.10
   - apiVersion: v2
     appVersion: 2.1.9
-    created: "2024-12-04T09:53:59.858003279Z"
+    created: "2024-12-04T10:51:17.890698901Z"
     description: The image-builder component for Yatai
     digest: 66b47798f7aa95f6c10a87f93165df97439d47a3e12d4f31e38b4759d7b5ec7c
     name: yatai-image-builder
@@ -1358,7 +1358,7 @@ entries:
     version: 2.1.9
   - apiVersion: v2
     appVersion: 2.1.8
-    created: "2024-12-04T09:53:59.857409559Z"
+    created: "2024-12-04T10:51:17.889539813Z"
     description: The image-builder component for Yatai
     digest: 0919869ffadaadad5561dfdaa39d756956124fda1997fd2c94f1bd087a43c919
     name: yatai-image-builder
@@ -1368,7 +1368,7 @@ entries:
     version: 2.1.8
   - apiVersion: v2
     appVersion: 2.1.7
-    created: "2024-12-04T09:53:59.856834915Z"
+    created: "2024-12-04T10:51:17.888354558Z"
     description: The image-builder component for Yatai
     digest: 56cc6f76ad8b72ac1176fbd041930f9530503c79528febfc0a97f714fc744c59
     name: yatai-image-builder
@@ -1378,7 +1378,7 @@ entries:
     version: 2.1.7
   - apiVersion: v2
     appVersion: 2.1.6
-    created: "2024-12-04T09:53:59.856223121Z"
+    created: "2024-12-04T10:51:17.88715223Z"
     description: The image-builder component for Yatai
     digest: 06403f12c18a046ea39e5e6ad84b57ece5a8b9fe72af8d34001b6eeeca42798b
     name: yatai-image-builder
@@ -1388,7 +1388,7 @@ entries:
     version: 2.1.6
   - apiVersion: v2
     appVersion: 2.1.5
-    created: "2024-12-04T09:53:59.855653677Z"
+    created: "2024-12-04T10:51:17.886046673Z"
     description: The image-builder component for Yatai
     digest: 8976ce6b3e8dda6f0039fbe6ec456bee2ef12a5a034505c624d8ef18388adf02
     name: yatai-image-builder
@@ -1398,7 +1398,7 @@ entries:
     version: 2.1.5
   - apiVersion: v2
     appVersion: 2.1.4
-    created: "2024-12-04T09:53:59.855058865Z"
+    created: "2024-12-04T10:51:17.88486828Z"
     description: The image-builder component for Yatai
     digest: c8603fd0ac6e00da7e276b242d97c0f5ff9887d780905e67d6327898a19e143f
     name: yatai-image-builder
@@ -1408,7 +1408,7 @@ entries:
     version: 2.1.4
   - apiVersion: v2
     appVersion: 2.1.3
-    created: "2024-12-04T09:53:59.854482006Z"
+    created: "2024-12-04T10:51:17.883740501Z"
     description: The image-builder component for Yatai
     digest: 2ccc38248864c77604730ff8ae4703bec9c66d37ebc5d6dde554dd43b5a8a15b
     name: yatai-image-builder
@@ -1418,7 +1418,7 @@ entries:
     version: 2.1.3
   - apiVersion: v2
     appVersion: 2.1.2
-    created: "2024-12-04T09:53:59.853856967Z"
+    created: "2024-12-04T10:51:17.882631858Z"
     description: The image-builder component for Yatai
     digest: ec4b957cc141df1c1514fb6a36c2fce080db904fbf47533547d840070d7d5292
     name: yatai-image-builder
@@ -1428,7 +1428,7 @@ entries:
     version: 2.1.2
   - apiVersion: v2
     appVersion: 2.1.1
-    created: "2024-12-04T09:53:59.846607913Z"
+    created: "2024-12-04T10:51:17.87382936Z"
     description: The image-builder component for Yatai
     digest: 9759604e037645b2087425175098814ebe6ba9d2474a20bb24b103f0d862e852
     name: yatai-image-builder
@@ -1438,7 +1438,7 @@ entries:
     version: 2.1.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-12-04T09:53:59.846029632Z"
+    created: "2024-12-04T10:51:17.873123736Z"
     description: The image-builder component for Yatai
     digest: 3f5012f5cf10a47a467abc2feed05c2589c76aca29789a0193890470e1cd5e86
     name: yatai-image-builder
@@ -1448,7 +1448,7 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 2.0.9
-    created: "2024-12-04T09:53:59.845407709Z"
+    created: "2024-12-04T10:51:17.872494886Z"
     description: The image-builder component for Yatai
     digest: 4afd422de8744ce51db3d165f350864f65b8880fef2680a0a0be7189bc8fca5b
     name: yatai-image-builder
@@ -1458,7 +1458,7 @@ entries:
     version: 2.0.9
   - apiVersion: v2
     appVersion: 2.0.8
-    created: "2024-12-04T09:53:59.844701509Z"
+    created: "2024-12-04T10:51:17.871594982Z"
     description: The image-builder component for Yatai
     digest: 134a0f2015e182552475fcdd381183bbd90edf74efc09994f2a96791669af893
     name: yatai-image-builder
@@ -1468,7 +1468,7 @@ entries:
     version: 2.0.8
   - apiVersion: v2
     appVersion: 2.0.7
-    created: "2024-12-04T09:53:59.843527534Z"
+    created: "2024-12-04T10:51:17.870302797Z"
     description: The image-builder component for Yatai
     digest: f724790000f1eda1054d96e34c4503b1bb9f4a9b8c2abd981208bd953d6e5d33
     name: yatai-image-builder
@@ -1478,7 +1478,7 @@ entries:
     version: 2.0.7
   - apiVersion: v2
     appVersion: 2.0.6
-    created: "2024-12-04T09:53:59.84295788Z"
+    created: "2024-12-04T10:51:17.869696579Z"
     description: The image-builder component for Yatai
     digest: 3f133b2a9ae26a25977b59a89c8589c0a67292e7f5216b23553e3d99f731914c
     name: yatai-image-builder
@@ -1488,7 +1488,7 @@ entries:
     version: 2.0.6
   - apiVersion: v2
     appVersion: 2.0.5
-    created: "2024-12-04T09:53:59.842358569Z"
+    created: "2024-12-04T10:51:17.869081665Z"
     description: The image-builder component for Yatai
     digest: 32abb516567fed0a1a87215bddd267859587b037f0609572316149d8b5a451eb
     name: yatai-image-builder
@@ -1498,7 +1498,7 @@ entries:
     version: 2.0.5
   - apiVersion: v2
     appVersion: 2.0.4
-    created: "2024-12-04T09:53:59.841787181Z"
+    created: "2024-12-04T10:51:17.868506695Z"
     description: The image-builder component for Yatai
     digest: e3658e9961d8862f0323e81781eb64f3476e54779ceda47c33081fc0c98adea6
     name: yatai-image-builder
@@ -1508,7 +1508,7 @@ entries:
     version: 2.0.4
   - apiVersion: v2
     appVersion: 2.0.3
-    created: "2024-12-04T09:53:59.841192309Z"
+    created: "2024-12-04T10:51:17.867900777Z"
     description: The image-builder component for Yatai
     digest: de3aa7c02fe5e0eec1039450d93756856075aea2301d7b5badc0e093eb438e4b
     name: yatai-image-builder
@@ -1518,7 +1518,7 @@ entries:
     version: 2.0.3
   - apiVersion: v2
     appVersion: 2.0.2
-    created: "2024-12-04T09:53:59.84062072Z"
+    created: "2024-12-04T10:51:17.867331448Z"
     description: The image-builder component for Yatai
     digest: 200fb82ec327305198dea24325caa6469b4bbf1f122b4091e9bc39f7c69301c0
     name: yatai-image-builder
@@ -1528,7 +1528,7 @@ entries:
     version: 2.0.2
   - apiVersion: v2
     appVersion: 2.0.1
-    created: "2024-12-04T09:53:59.840011331Z"
+    created: "2024-12-04T10:51:17.866706484Z"
     description: The image-builder component for Yatai
     digest: 2119b46c3b5fba0f78c589f34a981899857866dcbd0766638b8db8be4f7fdcc5
     name: yatai-image-builder
@@ -1538,7 +1538,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-12-04T09:53:59.839377827Z"
+    created: "2024-12-04T10:51:17.866131164Z"
     description: The image-builder component for Yatai
     digest: bee37478c119b7ede780bc5257228f133f4faa33f9cb3a8ad5c94c1de512ec40
     name: yatai-image-builder
@@ -1548,7 +1548,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.2.53
-    created: "2024-12-04T09:53:59.836152953Z"
+    created: "2024-12-04T10:51:17.862288239Z"
     description: The image-builder component for Yatai
     digest: 3adccb0a9d6bfb0f43d996916d8f4931a7fe6aa44720c7f192119c02001c5080
     name: yatai-image-builder
@@ -1558,7 +1558,7 @@ entries:
     version: 1.2.53
   - apiVersion: v2
     appVersion: 1.2.52
-    created: "2024-12-04T09:53:59.835591995Z"
+    created: "2024-12-04T10:51:17.861153317Z"
     description: The image-builder component for Yatai
     digest: a2b1333a303199759c83f20c4e41499d7d9a41a85bbc7da6eb254f9917f27a6b
     name: yatai-image-builder
@@ -1568,7 +1568,7 @@ entries:
     version: 1.2.52
   - apiVersion: v2
     appVersion: 1.2.51
-    created: "2024-12-04T09:53:59.835001471Z"
+    created: "2024-12-04T10:51:17.85997802Z"
     description: The image-builder component for Yatai
     digest: 3df00076e7aeabdb3c22234a4e22a686d1707e67f7c548c155d63145ee7202f5
     name: yatai-image-builder
@@ -1578,7 +1578,7 @@ entries:
     version: 1.2.51
   - apiVersion: v2
     appVersion: 1.2.50
-    created: "2024-12-04T09:53:59.834415696Z"
+    created: "2024-12-04T10:51:17.858892179Z"
     description: The image-builder component for Yatai
     digest: 8e1dc9263e1ef4d58c5cdb5a5c4d3a2632222a5bc9ba79bf8bfeeaf310867853
     name: yatai-image-builder
@@ -1588,7 +1588,7 @@ entries:
     version: 1.2.50
   - apiVersion: v2
     appVersion: 1.2.49
-    created: "2024-12-04T09:53:59.833082403Z"
+    created: "2024-12-04T10:51:17.856791019Z"
     description: The image-builder component for Yatai
     digest: 0830a263a500a76b08bf89b53c202694edeb4e71133165950d5b2ba9155c567f
     name: yatai-image-builder
@@ -1598,7 +1598,7 @@ entries:
     version: 1.2.49
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-12-04T09:53:59.832454399Z"
+    created: "2024-12-04T10:51:17.855689539Z"
     description: The image-builder component for Yatai
     digest: 11b7e4ccbbd07fdaf034c63eb5540e960021bbe3860029b53699d41e5c86afe0
     name: yatai-image-builder
@@ -1608,7 +1608,7 @@ entries:
     version: 1.2.48
   - apiVersion: v2
     appVersion: 1.2.47
-    created: "2024-12-04T09:53:59.831919118Z"
+    created: "2024-12-04T10:51:17.85471753Z"
     description: The image-builder component for Yatai
     digest: 312015ee8269309521cd823a35c3fc0ac1bf006f0260545e13e34f46fdcd799f
     name: yatai-image-builder
@@ -1618,7 +1618,7 @@ entries:
     version: 1.2.47
   - apiVersion: v2
     appVersion: 1.2.46
-    created: "2024-12-04T09:53:59.831361195Z"
+    created: "2024-12-04T10:51:17.853736274Z"
     description: The image-builder component for Yatai
     digest: 071dd685591cdd5b6dc8668f7ff8ef930c4d15a391234e74f5d72cf063d76609
     name: yatai-image-builder
@@ -1628,7 +1628,7 @@ entries:
     version: 1.2.46
   - apiVersion: v2
     appVersion: 1.2.45
-    created: "2024-12-04T09:53:59.830819874Z"
+    created: "2024-12-04T10:51:17.852669158Z"
     description: The image-builder component for Yatai
     digest: ca11de809208b2ec6f7517e941aa61caa6bd42ce3b2ffea40b421babacebc0b0
     name: yatai-image-builder
@@ -1638,7 +1638,7 @@ entries:
     version: 1.2.45
   - apiVersion: v2
     appVersion: 1.2.44
-    created: "2024-12-04T09:53:59.830265277Z"
+    created: "2024-12-04T10:51:17.851613113Z"
     description: The image-builder component for Yatai
     digest: 8930345245ebc8de32fbb98060d06d9d09489cce3a075a8cd685b6131b0166da
     name: yatai-image-builder
@@ -1648,7 +1648,7 @@ entries:
     version: 1.2.44
   - apiVersion: v2
     appVersion: 1.2.43
-    created: "2024-12-04T09:53:59.828983421Z"
+    created: "2024-12-04T10:51:17.850557518Z"
     description: The image-builder component for Yatai
     digest: 04bb3ad1ce45efbb03c6869a3b683252c2a2b82bd14791115097a06a1fa3e6a9
     name: yatai-image-builder
@@ -1658,7 +1658,7 @@ entries:
     version: 1.2.43
   - apiVersion: v2
     appVersion: 1.2.42
-    created: "2024-12-04T09:53:59.828419396Z"
+    created: "2024-12-04T10:51:17.849305381Z"
     description: The image-builder component for Yatai
     digest: 41efd46bd3e811b0b54bd524e26f1aa916a44926446c5210ca86cf44aff8c39e
     name: yatai-image-builder
@@ -1668,7 +1668,7 @@ entries:
     version: 1.2.42
   - apiVersion: v2
     appVersion: 1.2.41
-    created: "2024-12-04T09:53:59.827867785Z"
+    created: "2024-12-04T10:51:17.847975046Z"
     description: The image-builder component for Yatai
     digest: e21c24b4ad092e81891d053fdc39b1b82a78366a350a30452b97d9aba770471d
     name: yatai-image-builder
@@ -1678,7 +1678,7 @@ entries:
     version: 1.2.41
   - apiVersion: v2
     appVersion: 1.2.40
-    created: "2024-12-04T09:53:59.827340429Z"
+    created: "2024-12-04T10:51:17.84743985Z"
     description: The image-builder component for Yatai
     digest: 7d09e14ccda00272d4bf5f286615b29782364650b52582bac0fa6f91f06f960e
     name: yatai-image-builder
@@ -1688,7 +1688,7 @@ entries:
     version: 1.2.40
   - apiVersion: v2
     appVersion: 1.2.39
-    created: "2024-12-04T09:53:59.826296107Z"
+    created: "2024-12-04T10:51:17.846409332Z"
     description: The image-builder component for Yatai
     digest: 99d20cb81d3c11f84c905a6d531df612d5c0a899dcd341f1f24f4a1078b8bf24
     name: yatai-image-builder
@@ -1698,7 +1698,7 @@ entries:
     version: 1.2.39
   - apiVersion: v2
     appVersion: 1.2.38
-    created: "2024-12-04T09:53:59.825736892Z"
+    created: "2024-12-04T10:51:17.845862945Z"
     description: The image-builder component for Yatai
     digest: b1902a11343d4bcde6ec3fcc8876de21a61c350d8311a903dc2a0b4b2288795f
     name: yatai-image-builder
@@ -1708,7 +1708,7 @@ entries:
     version: 1.2.38
   - apiVersion: v2
     appVersion: 1.2.37
-    created: "2024-12-04T09:53:59.825203344Z"
+    created: "2024-12-04T10:51:17.845331526Z"
     description: The image-builder component for Yatai
     digest: ff7a7fb1f89f5635d6408be4d6ae2cb33a0ce66c116cc50ee63fcb8707898968
     name: yatai-image-builder
@@ -1718,7 +1718,7 @@ entries:
     version: 1.2.37
   - apiVersion: v2
     appVersion: 1.2.36
-    created: "2024-12-04T09:53:59.824640732Z"
+    created: "2024-12-04T10:51:17.844745957Z"
     description: The image-builder component for Yatai
     digest: 5b48ed4da406c4f650d51c989174696c89af0611ef8711fc1d60f5bc4eedd254
     name: yatai-image-builder
@@ -1728,7 +1728,7 @@ entries:
     version: 1.2.36
   - apiVersion: v2
     appVersion: 1.2.35
-    created: "2024-12-04T09:53:59.824076447Z"
+    created: "2024-12-04T10:51:17.844183149Z"
     description: The image-builder component for Yatai
     digest: d12117f85f5ba7137bc36405df98fda8493c4d0690843794e8f24c99d6ae3bee
     name: yatai-image-builder
@@ -1738,7 +1738,7 @@ entries:
     version: 1.2.35
   - apiVersion: v2
     appVersion: 1.2.34
-    created: "2024-12-04T09:53:59.823528844Z"
+    created: "2024-12-04T10:51:17.843607488Z"
     description: The image-builder component for Yatai
     digest: 9f8de8ca38a08d8b286d96f0d45c8dfae1342a01eeb9ab16fd7fa59ea1b06a2d
     name: yatai-image-builder
@@ -1748,7 +1748,7 @@ entries:
     version: 1.2.34
   - apiVersion: v2
     appVersion: 1.2.33
-    created: "2024-12-04T09:53:59.822812565Z"
+    created: "2024-12-04T10:51:17.84307682Z"
     description: The image-builder component for Yatai
     digest: 0f868f5ee65e8169530652e968577106a8dfffc77ada1d3f164c82a45a6e045a
     name: yatai-image-builder
@@ -1758,7 +1758,7 @@ entries:
     version: 1.2.33
   - apiVersion: v2
     appVersion: 1.2.32
-    created: "2024-12-04T09:53:59.821471455Z"
+    created: "2024-12-04T10:51:17.842516227Z"
     description: The image-builder component for Yatai
     digest: b280257e4192b2eb4e8b691896a5c5dab92dc25fb33e2c9ebacaf6e2ef8ce1d5
     name: yatai-image-builder
@@ -1768,7 +1768,7 @@ entries:
     version: 1.2.32
   - apiVersion: v2
     appVersion: 1.2.31
-    created: "2024-12-04T09:53:59.820936044Z"
+    created: "2024-12-04T10:51:17.841719992Z"
     description: The image-builder component for Yatai
     digest: eb1e73c58c131d9c9a97ed5a8a8a11ef4895823bc6e52505d624394804e91ce4
     name: yatai-image-builder
@@ -1778,7 +1778,7 @@ entries:
     version: 1.2.31
   - apiVersion: v2
     appVersion: 1.2.30
-    created: "2024-12-04T09:53:59.820388311Z"
+    created: "2024-12-04T10:51:17.840202448Z"
     description: The image-builder component for Yatai
     digest: 1d3f6b3806b0408406250f5cba5c3a9dc52c17368f47b4e655bf26b8eac813e0
     name: yatai-image-builder
@@ -1788,7 +1788,7 @@ entries:
     version: 1.2.30
   - apiVersion: v2
     appVersion: 1.2.29
-    created: "2024-12-04T09:53:59.819375397Z"
+    created: "2024-12-04T10:51:17.838306149Z"
     description: The image-builder component for Yatai
     digest: de9fcb0ec00ef4b5152d75e76e5b8d3a3a425f4d9504645cbf95da0afc3ac3ef
     name: yatai-image-builder
@@ -1798,7 +1798,7 @@ entries:
     version: 1.2.29
   - apiVersion: v2
     appVersion: 1.2.28
-    created: "2024-12-04T09:53:59.818850977Z"
+    created: "2024-12-04T10:51:17.837371299Z"
     description: The image-builder component for Yatai
     digest: d5f4effbde639faaf8726b92939758ced542cebfffe93c823b94970770f795ce
     name: yatai-image-builder
@@ -1808,7 +1808,7 @@ entries:
     version: 1.2.28
   - apiVersion: v2
     appVersion: 1.2.27
-    created: "2024-12-04T09:53:59.818348898Z"
+    created: "2024-12-04T10:51:17.836442861Z"
     description: The image-builder component for Yatai
     digest: 444ddaf6f8699903de68eb91bc6d31ca7e93d0409b98681b8a2213e73fd85387
     name: yatai-image-builder
@@ -1818,7 +1818,7 @@ entries:
     version: 1.2.27
   - apiVersion: v2
     appVersion: 1.2.26
-    created: "2024-12-04T09:53:59.817852119Z"
+    created: "2024-12-04T10:51:17.835450996Z"
     description: The image-builder component for Yatai
     digest: 076b5fead1b45632cbb592c6f6d8cd031fab4abf2d8d73801f68f85d4630b734
     name: yatai-image-builder
@@ -1828,7 +1828,7 @@ entries:
     version: 1.2.26
   - apiVersion: v2
     appVersion: 1.2.25
-    created: "2024-12-04T09:53:59.817350521Z"
+    created: "2024-12-04T10:51:17.83443227Z"
     description: The image-builder component for Yatai
     digest: bc8cd3907db14025bb4ce1814c91e86b66f474346fbd8036be0f2a53c0b6137d
     name: yatai-image-builder
@@ -1838,7 +1838,7 @@ entries:
     version: 1.2.25
   - apiVersion: v2
     appVersion: 1.2.24
-    created: "2024-12-04T09:53:59.816829828Z"
+    created: "2024-12-04T10:51:17.833436617Z"
     description: The image-builder component for Yatai
     digest: 145bfd4871e8b9b1f92cc852f763175bebd5af0436c191d0dc21812b9ede625e
     name: yatai-image-builder
@@ -1848,7 +1848,7 @@ entries:
     version: 1.2.24
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-12-04T09:53:59.816284158Z"
+    created: "2024-12-04T10:51:17.832416629Z"
     description: The image-builder component for Yatai
     digest: 824eab227d59b9ea749daf87875a5c4e42a8176fc9390d053316baea64b6967a
     name: yatai-image-builder
@@ -1858,7 +1858,7 @@ entries:
     version: 1.2.23
   - apiVersion: v2
     appVersion: 1.2.22
-    created: "2024-12-04T09:53:59.815768384Z"
+    created: "2024-12-04T10:51:17.831462393Z"
     description: The image-builder component for Yatai
     digest: 68d23365b184cef9a49e10ec19d0eae9b376fe5dd557b6ef62dd59970d885682
     name: yatai-image-builder
@@ -1868,7 +1868,7 @@ entries:
     version: 1.2.22
   - apiVersion: v2
     appVersion: 1.2.21
-    created: "2024-12-04T09:53:59.814827592Z"
+    created: "2024-12-04T10:51:17.83053646Z"
     description: The image-builder component for Yatai
     digest: 6ee19501b307006c193948ea98b46046f60a30040f7c7e7dfd49e45d11e5622f
     name: yatai-image-builder
@@ -1878,7 +1878,7 @@ entries:
     version: 1.2.21
   - apiVersion: v2
     appVersion: 1.2.20
-    created: "2024-12-04T09:53:59.81388525Z"
+    created: "2024-12-04T10:51:17.828479051Z"
     description: The image-builder component for Yatai
     digest: 3a4756c0990964ef53140c8ae5e739159a22a63e6a2d5acaffcd8b1ba6563b6b
     name: yatai-image-builder
@@ -1888,7 +1888,7 @@ entries:
     version: 1.2.20
   - apiVersion: v2
     appVersion: 1.2.19
-    created: "2024-12-04T09:53:59.812860715Z"
+    created: "2024-12-04T10:51:17.826621765Z"
     description: The image-builder component for Yatai
     digest: 564af5c7de706d3163aba5e32e616223f123700e665ce1515e8d316ac83e9f18
     name: yatai-image-builder
@@ -1898,7 +1898,7 @@ entries:
     version: 1.2.19
   - apiVersion: v2
     appVersion: 1.2.18
-    created: "2024-12-04T09:53:59.812338098Z"
+    created: "2024-12-04T10:51:17.825702705Z"
     description: The image-builder component for Yatai
     digest: 6938fdc133c35afffa7cacd1d3976b44f9a430f86e59e4563f9a0cc1f387c149
     name: yatai-image-builder
@@ -1908,7 +1908,7 @@ entries:
     version: 1.2.18
   - apiVersion: v2
     appVersion: 1.2.17
-    created: "2024-12-04T09:53:59.811833084Z"
+    created: "2024-12-04T10:51:17.824712652Z"
     description: The image-builder component for Yatai
     digest: 1ab9b155cef0acb63d4902277ae2b6624574750295a7f57e430b833d4d7c4fd6
     name: yatai-image-builder
@@ -1918,7 +1918,7 @@ entries:
     version: 1.2.17
   - apiVersion: v2
     appVersion: 1.2.16
-    created: "2024-12-04T09:53:59.811348398Z"
+    created: "2024-12-04T10:51:17.823741475Z"
     description: The image-builder component for Yatai
     digest: c4e3b702b7460ac1e65dd15e47f5dcf3f843afa0ffc1ae9935abf7cf2e4764a4
     name: yatai-image-builder
@@ -1928,7 +1928,7 @@ entries:
     version: 1.2.16
   - apiVersion: v2
     appVersion: 1.2.15
-    created: "2024-12-04T09:53:59.810821052Z"
+    created: "2024-12-04T10:51:17.822798209Z"
     description: The image-builder component for Yatai
     digest: 86399b57b17a8a237d0d5803e39994195fe56b5a365a4bb3d4fe1e89db22f636
     name: yatai-image-builder
@@ -1938,7 +1938,7 @@ entries:
     version: 1.2.15
   - apiVersion: v2
     appVersion: 1.2.14
-    created: "2024-12-04T09:53:59.810315928Z"
+    created: "2024-12-04T10:51:17.82183104Z"
     description: The image-builder component for Yatai
     digest: 1eda866dbd6d8b8b876ee8331943e82d8747a5ec23e25f33e324d014b1341e9f
     name: yatai-image-builder
@@ -1948,7 +1948,7 @@ entries:
     version: 1.2.14
   - apiVersion: v2
     appVersion: 1.2.13
-    created: "2024-12-04T09:53:59.809548363Z"
+    created: "2024-12-04T10:51:17.820850956Z"
     description: The image-builder component for Yatai
     digest: 8c60953bb56d5c4db71b3c8bac2594faf0b7ae477ba22bda1db6d1b58e829c25
     name: yatai-image-builder
@@ -1958,7 +1958,7 @@ entries:
     version: 1.2.13
   - apiVersion: v2
     appVersion: 1.2.12
-    created: "2024-12-04T09:53:59.809072183Z"
+    created: "2024-12-04T10:51:17.819894596Z"
     description: The image-builder component for Yatai
     digest: 832339e542e753b4dbe5c9fb5cfdba05645048292571cde3232d71b89b648def
     name: yatai-image-builder
@@ -1968,7 +1968,7 @@ entries:
     version: 1.2.12
   - apiVersion: v2
     appVersion: 1.2.11
-    created: "2024-12-04T09:53:59.808529809Z"
+    created: "2024-12-04T10:51:17.818969103Z"
     description: The image-builder component for Yatai
     digest: c6b6c128773416f0d8c6adddbdd158a150ecd2a4ff8031b7de0ff28d97fcc2c7
     name: yatai-image-builder
@@ -1978,7 +1978,7 @@ entries:
     version: 1.2.11
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2024-12-04T09:53:59.808035965Z"
+    created: "2024-12-04T10:51:17.818023964Z"
     description: The image-builder component for Yatai
     digest: 39248087a416c6d55ee856f1533f286c6cc1402ae2a2513b8e8c1d212d2d00a8
     name: yatai-image-builder
@@ -1988,7 +1988,7 @@ entries:
     version: 1.2.10
   - apiVersion: v2
     appVersion: 1.2.9
-    created: "2024-12-04T09:53:59.838801479Z"
+    created: "2024-12-04T10:51:17.865520838Z"
     description: The image-builder component for Yatai
     digest: 29182e3dfbb1f469702ac91de6531b23e5be0f62c37a5ae28bc88f87d7ebcd9c
     name: yatai-image-builder
@@ -1998,7 +1998,7 @@ entries:
     version: 1.2.9
   - apiVersion: v2
     appVersion: 1.2.8
-    created: "2024-12-04T09:53:59.838288921Z"
+    created: "2024-12-04T10:51:17.86499549Z"
     description: The image-builder component for Yatai
     digest: ca2ecf57c6b55d2e5cc1f3fb68cbac62df68e638dc2b7956002df4d46138f491
     name: yatai-image-builder
@@ -2008,7 +2008,7 @@ entries:
     version: 1.2.8
   - apiVersion: v2
     appVersion: 1.2.7
-    created: "2024-12-04T09:53:59.837775772Z"
+    created: "2024-12-04T10:51:17.864448252Z"
     description: The image-builder component for Yatai
     digest: b9b6baf7424a6e59f3e447b063ffa3ad177c247c54c0a478ed7c857452234f3f
     name: yatai-image-builder
@@ -2018,7 +2018,7 @@ entries:
     version: 1.2.7
   - apiVersion: v2
     appVersion: 1.2.6
-    created: "2024-12-04T09:53:59.836952748Z"
+    created: "2024-12-04T10:51:17.863758295Z"
     description: The image-builder component for Yatai
     digest: 539a77fb3a34cbb7688f2083874d771c974c170f47f98c750bbc4e78fc51c75c
     name: yatai-image-builder
@@ -2028,7 +2028,7 @@ entries:
     version: 1.2.6
   - apiVersion: v2
     appVersion: 1.2.5
-    created: "2024-12-04T09:53:59.833554816Z"
+    created: "2024-12-04T10:51:17.857751446Z"
     description: The image-builder component for Yatai
     digest: 3b69e7c872cf64f695bf44720895eda46307d38910a0bb8a7c39915fea79c2e1
     name: yatai-image-builder
@@ -2038,7 +2038,7 @@ entries:
     version: 1.2.5
   - apiVersion: v2
     appVersion: 1.2.4
-    created: "2024-12-04T09:53:59.826763531Z"
+    created: "2024-12-04T10:51:17.846874037Z"
     description: The image-builder component for Yatai
     digest: c0d341af7b292442d823d042dd314ae43a1ce903f946bb7e28198a8511b59e59
     name: yatai-image-builder
@@ -2048,7 +2048,7 @@ entries:
     version: 1.2.4
   - apiVersion: v2
     appVersion: 1.2.3
-    created: "2024-12-04T09:53:59.819859913Z"
+    created: "2024-12-04T10:51:17.839209851Z"
     description: The image-builder component for Yatai
     digest: 51d25c4fe1fd7c5f583776a1eb7448243f674f5b0f3126d7de6f05e5fee0b4b0
     name: yatai-image-builder
@@ -2058,7 +2058,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 1.2.2
-    created: "2024-12-04T09:53:59.813381759Z"
+    created: "2024-12-04T10:51:17.827551174Z"
     description: The image-builder component for Yatai
     digest: bf5dfad164ffcfd75713f683a7770217b53b6b81c86aea95614e3b783555f02f
     name: yatai-image-builder
@@ -2068,7 +2068,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2024-12-04T09:53:59.806907526Z"
+    created: "2024-12-04T10:51:17.817075078Z"
     description: The image-builder component for Yatai
     digest: 10e90b572e1b2cc232f6dd30abdd0519376bcb531ef13f64a276a843502afb94
     name: yatai-image-builder
@@ -2078,7 +2078,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-12-04T09:53:59.806441144Z"
+    created: "2024-12-04T10:51:17.816142924Z"
     description: The image-builder component for Yatai
     digest: 38c25ac40dcdae2cc05c0def7f9108406fe98801bff5969cf6b83bdb1343b265
     name: yatai-image-builder
@@ -2088,7 +2088,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.25
-    created: "2024-12-04T09:53:59.802615151Z"
+    created: "2024-12-04T10:51:17.810788763Z"
     description: The image-builder component for Yatai
     digest: 9db2402e5f0597f9b6041f935bfc2df9cc3295182d039939786c0619495e5b4f
     name: yatai-image-builder
@@ -2098,7 +2098,7 @@ entries:
     version: 1.1.25
   - apiVersion: v2
     appVersion: 1.1.24
-    created: "2024-12-04T09:53:59.802141176Z"
+    created: "2024-12-04T10:51:17.81032479Z"
     description: The image-builder component for Yatai
     digest: 31422e4a510126578d9a346ad7e2c3935b5dd83dae9e5f0b4d9606a93ba90d35
     name: yatai-image-builder
@@ -2108,7 +2108,7 @@ entries:
     version: 1.1.24
   - apiVersion: v2
     appVersion: 1.1.23
-    created: "2024-12-04T09:53:59.801658503Z"
+    created: "2024-12-04T10:51:17.809850698Z"
     description: The image-builder component for Yatai
     digest: 55b38545b0ba53040f2d1bfac7917e7f6d5cca9692d56de7131245e7ba3f1653
     name: yatai-image-builder
@@ -2118,7 +2118,7 @@ entries:
     version: 1.1.23
   - apiVersion: v2
     appVersion: 1.1.22
-    created: "2024-12-04T09:53:59.801172284Z"
+    created: "2024-12-04T10:51:17.809350387Z"
     description: The image-builder component for Yatai
     digest: 29829b208e8b8c1105497121fd915658739c096ec1da518ad7ba9b7b14561b4b
     name: yatai-image-builder
@@ -2128,7 +2128,7 @@ entries:
     version: 1.1.22
   - apiVersion: v2
     appVersion: 1.1.21
-    created: "2024-12-04T09:53:59.800378513Z"
+    created: "2024-12-04T10:51:17.808847821Z"
     description: The image-builder component for Yatai
     digest: f492d92571849e022bcf46c04e4f25b77deef148c2b68dccde2640c2cd0fe092
     name: yatai-image-builder
@@ -2138,7 +2138,7 @@ entries:
     version: 1.1.21
   - apiVersion: v2
     appVersion: 1.1.20
-    created: "2024-12-04T09:53:59.799547199Z"
+    created: "2024-12-04T10:51:17.808372476Z"
     description: The image-builder component for Yatai
     digest: 0378be921dc5acf0cef5c0214c8aaab2b9cf9dbc3c091f523709a567cb4d6c8d
     name: yatai-image-builder
@@ -2148,7 +2148,7 @@ entries:
     version: 1.1.20
   - apiVersion: v2
     appVersion: 1.1.19
-    created: "2024-12-04T09:53:59.798611781Z"
+    created: "2024-12-04T10:51:17.807247453Z"
     description: The image-builder component for Yatai
     digest: 13fc1ed6e4950f7202dedca67f27fba9d54c086cab7580ed2792fc0c462042d4
     name: yatai-image-builder
@@ -2158,7 +2158,7 @@ entries:
     version: 1.1.19
   - apiVersion: v2
     appVersion: 1.1.18
-    created: "2024-12-04T09:53:59.798141722Z"
+    created: "2024-12-04T10:51:17.805967331Z"
     description: The image-builder component for Yatai
     digest: df6b177c0256ddb942e01a46314d756798147995f83c95b65ed2a7fcc1b988ab
     name: yatai-image-builder
@@ -2168,7 +2168,7 @@ entries:
     version: 1.1.18
   - apiVersion: v2
     appVersion: 1.1.17
-    created: "2024-12-04T09:53:59.797639583Z"
+    created: "2024-12-04T10:51:17.805444798Z"
     description: The image-builder component for Yatai
     digest: b100a8e4918cb04ab0a6b585795de39adec5f427ceb9eead7ae562567412a1d4
     name: yatai-image-builder
@@ -2178,7 +2178,7 @@ entries:
     version: 1.1.17
   - apiVersion: v2
     appVersion: 1.1.16
-    created: "2024-12-04T09:53:59.79715628Z"
+    created: "2024-12-04T10:51:17.804938245Z"
     description: The image-builder component for Yatai
     digest: 31f901c12e2431a91a513877d922b66289db18a79b2796086dc6bbb6019018ca
     name: yatai-image-builder
@@ -2188,7 +2188,7 @@ entries:
     version: 1.1.16
   - apiVersion: v2
     appVersion: 1.1.15
-    created: "2024-12-04T09:53:59.796665051Z"
+    created: "2024-12-04T10:51:17.804422576Z"
     description: The image-builder component for Yatai
     digest: 4a06ed2198111d61d720f83951750bd7ea4e7b07296df7a68b57b5bff7d6058c
     name: yatai-image-builder
@@ -2198,7 +2198,7 @@ entries:
     version: 1.1.15
   - apiVersion: v2
     appVersion: 1.1.14
-    created: "2024-12-04T09:53:59.796169595Z"
+    created: "2024-12-04T10:51:17.803917095Z"
     description: The image-builder component for Yatai
     digest: fcb4c1ac58235f0bcd3f623ab5969f2828de823254d2991d9ed252a10b34a8bc
     name: yatai-image-builder
@@ -2208,7 +2208,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: 1.1.13
-    created: "2024-12-04T09:53:59.795677605Z"
+    created: "2024-12-04T10:51:17.803444425Z"
     description: The image-builder component for Yatai
     digest: 0d6fca1cdef329045ec9e12e60304dc8916ad1f580b213a2d5ea13ade0ee4c8c
     name: yatai-image-builder
@@ -2218,7 +2218,7 @@ entries:
     version: 1.1.13
   - apiVersion: v2
     appVersion: 1.1.12
-    created: "2024-12-04T09:53:59.795208348Z"
+    created: "2024-12-04T10:51:17.802962218Z"
     description: The image-builder component for Yatai
     digest: 41d36c4cabafdfd3aa63e9292e8059d5d9c073b00c8d4f535cb60fe57ca94549
     name: yatai-image-builder
@@ -2228,7 +2228,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.1.11
-    created: "2024-12-04T09:53:59.794711149Z"
+    created: "2024-12-04T10:51:17.802491382Z"
     description: The image-builder component for Yatai
     digest: aa60dac32ad7587ccbdc92bed9547304bfcd3d976af5b7f90454cacdc84564fc
     name: yatai-image-builder
@@ -2238,7 +2238,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.1.10
-    created: "2024-12-04T09:53:59.794213829Z"
+    created: "2024-12-04T10:51:17.801978558Z"
     description: The image-builder component for Yatai
     digest: 08ba4465e953ddf0ec1d5c3120fb70aea67b66c19e9aaa111c56ddf93d05718c
     name: yatai-image-builder
@@ -2248,7 +2248,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.1.9
-    created: "2024-12-04T09:53:59.805955146Z"
+    created: "2024-12-04T10:51:17.814966197Z"
     description: The image-builder component for Yatai
     digest: caf0ebb60bedb2c38ac29925bc99bcfbc60d9731bd72828c606074809c3e726f
     name: yatai-image-builder
@@ -2258,7 +2258,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.1.8
-    created: "2024-12-04T09:53:59.805491088Z"
+    created: "2024-12-04T10:51:17.813921764Z"
     description: The image-builder component for Yatai
     digest: 232409e753c8b9d43a3216eaa52588a944713e76fa037e29d80573e72ccb0f35
     name: yatai-image-builder
@@ -2268,7 +2268,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.1.7
-    created: "2024-12-04T09:53:59.805003266Z"
+    created: "2024-12-04T10:51:17.813165306Z"
     description: The image-builder component for Yatai
     digest: 6dc70218167bd730ae2a12ca375c1af8f9115371f0ea6743456e19e76fe3e387
     name: yatai-image-builder
@@ -2278,7 +2278,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
-    created: "2024-12-04T09:53:59.804504434Z"
+    created: "2024-12-04T10:51:17.81269466Z"
     description: The image-builder component for Yatai
     digest: 9aa2a4e5f524e13290b0d859b888dc2c92eaead787471f089d8da50c88cb9689
     name: yatai-image-builder
@@ -2288,7 +2288,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
-    created: "2024-12-04T09:53:59.804034716Z"
+    created: "2024-12-04T10:51:17.812207303Z"
     description: The image-builder component for Yatai
     digest: a2b6743ef32f7096184547b62c979c463518fa24292149671c9539b8ec248f32
     name: yatai-image-builder
@@ -2298,7 +2298,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2024-12-04T09:53:59.803558545Z"
+    created: "2024-12-04T10:51:17.811750473Z"
     description: The image-builder component for Yatai
     digest: a8620de36b29d94cd997b4c9b7adab281d0c10e45cc9984a0f69f26c6f6a34e3
     name: yatai-image-builder
@@ -2308,7 +2308,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2024-12-04T09:53:59.803099196Z"
+    created: "2024-12-04T10:51:17.81124927Z"
     description: The image-builder component for Yatai
     digest: 282095a05dbb58c269462c41a4a936e0e075eb81271760494f74fea84af6c554
     name: yatai-image-builder
@@ -2318,7 +2318,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2024-12-04T09:53:59.799072602Z"
+    created: "2024-12-04T10:51:17.807892343Z"
     description: The image-builder component for Yatai
     digest: dcae7c95dd00c64d09867ddb4e9732c2cd0914a20776fff9078ebba8afb7f4e8
     name: yatai-image-builder
@@ -2328,7 +2328,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-12-04T09:53:59.793013017Z"
+    created: "2024-12-04T10:51:17.801504776Z"
     description: The image-builder component for Yatai
     digest: 75f2f79af4b51cc1ee1d6b01a23e21741114bbeeb4656f39a0c433a98771c84a
     name: yatai-image-builder
@@ -2338,7 +2338,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-12-04T09:53:59.792504566Z"
+    created: "2024-12-04T10:51:17.800967336Z"
     description: The image-builder component for Yatai
     digest: d05c0d01ac1984ed74c5b2f88b1d5c7c6d4736e152b99393c865d0550eb2210a
     name: yatai-image-builder
@@ -2348,8 +2348,18 @@ entries:
     version: 1.1.0
   yatai-image-builder-crds:
   - apiVersion: v2
+    appVersion: 2.1.20
+    created: "2024-12-04T10:51:17.943108917Z"
+    description: A Helm chart for Kubernetes
+    digest: e4fe47219e18d7b9bf41cf36175f85c7d9048775fb6aa8657e4839c8e4c7b756
+    name: yatai-image-builder-crds
+    type: application
+    urls:
+    - packages/yatai-image-builder-crds-2.1.20.tgz
+    version: 2.1.20
+  - apiVersion: v2
     appVersion: 2.1.19
-    created: "2024-12-04T09:53:59.908433717Z"
+    created: "2024-12-04T10:51:17.942237525Z"
     description: A Helm chart for Kubernetes
     digest: b3fb1a81ce736d930f7320b4791cf58e6755649d679056639191df48b269f5cf
     name: yatai-image-builder-crds
@@ -2359,7 +2369,7 @@ entries:
     version: 2.1.19
   - apiVersion: v2
     appVersion: 2.1.18
-    created: "2024-12-04T09:53:59.907984166Z"
+    created: "2024-12-04T10:51:17.941815099Z"
     description: A Helm chart for Kubernetes
     digest: 24a7138a0a51146e2c684b951821350c66eab6d351d1ebf21cce4d9c4095fad0
     name: yatai-image-builder-crds
@@ -2369,7 +2379,7 @@ entries:
     version: 2.1.18
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-12-04T09:53:59.907567187Z"
+    created: "2024-12-04T10:51:17.94138552Z"
     description: A Helm chart for Kubernetes
     digest: 4a30c4dc4b8a75d75d9606bfaa4010cceed28e169d3825e4809a68d2977d5b68
     name: yatai-image-builder-crds
@@ -2379,7 +2389,7 @@ entries:
     version: 2.1.17
   - apiVersion: v2
     appVersion: 2.1.16
-    created: "2024-12-04T09:53:59.907142633Z"
+    created: "2024-12-04T10:51:17.940926375Z"
     description: A Helm chart for Kubernetes
     digest: 39b521aeb8a3ad38da1601d901da38514f8f2895f9be788c1b7245f94e5f50c3
     name: yatai-image-builder-crds
@@ -2389,7 +2399,7 @@ entries:
     version: 2.1.16
   - apiVersion: v2
     appVersion: 2.1.15
-    created: "2024-12-04T09:53:59.906718831Z"
+    created: "2024-12-04T10:51:17.940489021Z"
     description: A Helm chart for Kubernetes
     digest: dbdcaff5e95af8116ee50abfe9b51123077f4e590e540a3369f1f3b62f01c883
     name: yatai-image-builder-crds
@@ -2399,7 +2409,7 @@ entries:
     version: 2.1.15
   - apiVersion: v2
     appVersion: 2.1.14
-    created: "2024-12-04T09:53:59.906289829Z"
+    created: "2024-12-04T10:51:17.93971896Z"
     description: A Helm chart for Kubernetes
     digest: 031fc2dd2a893f7c946abc101deb2e87b6d619114191052c647a922d3a742530
     name: yatai-image-builder-crds
@@ -2409,7 +2419,7 @@ entries:
     version: 2.1.14
   - apiVersion: v2
     appVersion: 2.1.13
-    created: "2024-12-04T09:53:59.905818097Z"
+    created: "2024-12-04T10:51:17.938969075Z"
     description: A Helm chart for Kubernetes
     digest: d3706c2ec49c169c01778368c9b6ba9c1466a026a7578362d563542dcbd9f5d8
     name: yatai-image-builder-crds
@@ -2419,7 +2429,7 @@ entries:
     version: 2.1.13
   - apiVersion: v2
     appVersion: 2.1.12
-    created: "2024-12-04T09:53:59.905372284Z"
+    created: "2024-12-04T10:51:17.938551307Z"
     description: A Helm chart for Kubernetes
     digest: ca9ce1f17f15f480d52bb09916608968a825c9c9fdc85c7c34f9905952ae21c6
     name: yatai-image-builder-crds
@@ -2429,7 +2439,7 @@ entries:
     version: 2.1.12
   - apiVersion: v2
     appVersion: 2.1.11
-    created: "2024-12-04T09:53:59.904765865Z"
+    created: "2024-12-04T10:51:17.938131617Z"
     description: A Helm chart for Kubernetes
     digest: 6c91865e74cb6d8396952504fdf95c6d12f232db57c8c1350b0393078c5e6730
     name: yatai-image-builder-crds
@@ -2439,7 +2449,7 @@ entries:
     version: 2.1.11
   - apiVersion: v2
     appVersion: 2.1.10
-    created: "2024-12-04T09:53:59.903906158Z"
+    created: "2024-12-04T10:51:17.937709211Z"
     description: A Helm chart for Kubernetes
     digest: fe027cad097aeb9acd7023010967a7c3d2c39cdccf86d58fdd19d2fe18ddef9b
     name: yatai-image-builder-crds
@@ -2449,7 +2459,7 @@ entries:
     version: 2.1.10
   - apiVersion: v2
     appVersion: 2.1.9
-    created: "2024-12-04T09:53:59.912622906Z"
+    created: "2024-12-04T10:51:17.946761877Z"
     description: A Helm chart for Kubernetes
     digest: f37f24998c279040d6bf4165bea8ee942213a72301b3dcdd8de1d09bb2be1d56
     name: yatai-image-builder-crds
@@ -2459,7 +2469,7 @@ entries:
     version: 2.1.9
   - apiVersion: v2
     appVersion: 2.1.8
-    created: "2024-12-04T09:53:59.912157126Z"
+    created: "2024-12-04T10:51:17.946322069Z"
     description: A Helm chart for Kubernetes
     digest: fa45523f4d7a1116628f028f0db2faad0eb55f59b39ffe1ed992d38e45a562ba
     name: yatai-image-builder-crds
@@ -2469,7 +2479,7 @@ entries:
     version: 2.1.8
   - apiVersion: v2
     appVersion: 2.1.7
-    created: "2024-12-04T09:53:59.911690874Z"
+    created: "2024-12-04T10:51:17.945881459Z"
     description: A Helm chart for Kubernetes
     digest: 4d999ead2b8d53a90506048f7b5c7fcc702d12818eb52b33910e19456111ee5c
     name: yatai-image-builder-crds
@@ -2479,7 +2489,7 @@ entries:
     version: 2.1.7
   - apiVersion: v2
     appVersion: 2.1.6
-    created: "2024-12-04T09:53:59.911197361Z"
+    created: "2024-12-04T10:51:17.94521675Z"
     description: A Helm chart for Kubernetes
     digest: ab66d0bcf141caee03b7952e48834eaffd36aec7bc4c2fa239b6fd1a26e9a1bd
     name: yatai-image-builder-crds
@@ -2489,7 +2499,7 @@ entries:
     version: 2.1.6
   - apiVersion: v2
     appVersion: 2.1.5
-    created: "2024-12-04T09:53:59.910744975Z"
+    created: "2024-12-04T10:51:17.944377878Z"
     description: A Helm chart for Kubernetes
     digest: 8386b1006e26eab1efa8346638e5e0af6b5c07d1d47afd081fe1157aa9d12312
     name: yatai-image-builder-crds
@@ -2499,7 +2509,7 @@ entries:
     version: 2.1.5
   - apiVersion: v2
     appVersion: 2.1.4
-    created: "2024-12-04T09:53:59.910297299Z"
+    created: "2024-12-04T10:51:17.943957206Z"
     description: A Helm chart for Kubernetes
     digest: 82b39acd4bf10c207461cc0ff582680b4db13d666da7cd088dbcd00ee9eba13e
     name: yatai-image-builder-crds
@@ -2509,7 +2519,7 @@ entries:
     version: 2.1.4
   - apiVersion: v2
     appVersion: 2.1.3
-    created: "2024-12-04T09:53:59.909619954Z"
+    created: "2024-12-04T10:51:17.943537154Z"
     description: A Helm chart for Kubernetes
     digest: fbac6a1919faf71b37907f868fd9f3a248fe0e6cf1839638b5f79e7b39e23087
     name: yatai-image-builder-crds
@@ -2519,7 +2529,7 @@ entries:
     version: 2.1.3
   - apiVersion: v2
     appVersion: 2.1.2
-    created: "2024-12-04T09:53:59.90888451Z"
+    created: "2024-12-04T10:51:17.942683866Z"
     description: A Helm chart for Kubernetes
     digest: b7c499b33e06f41ff81a028ea53bda4b098f8d953cf15acefd80b1284b0d7c1c
     name: yatai-image-builder-crds
@@ -2529,7 +2539,7 @@ entries:
     version: 2.1.2
   - apiVersion: v2
     appVersion: 2.1.1
-    created: "2024-12-04T09:53:59.903473789Z"
+    created: "2024-12-04T10:51:17.937279631Z"
     description: A Helm chart for Kubernetes
     digest: e46f71e13969ee9054b481681b748ee70c8f409432be93459b9eab6308035f8e
     name: yatai-image-builder-crds
@@ -2539,7 +2549,7 @@ entries:
     version: 2.1.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-12-04T09:53:59.903032674Z"
+    created: "2024-12-04T10:51:17.936819825Z"
     description: A Helm chart for Kubernetes
     digest: 7f6cad3673d106b76ba092fe8dd14098ee6e1eedea2802d9842ab039c4d73e9f
     name: yatai-image-builder-crds
@@ -2549,7 +2559,7 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 2.0.9
-    created: "2024-12-04T09:53:59.902604815Z"
+    created: "2024-12-04T10:51:17.936395666Z"
     description: A Helm chart for Kubernetes
     digest: 2fe57fa8112c958506bf33458e9c8384dd9ef9fbdb8d02062217ab6e2ce3b38b
     name: yatai-image-builder-crds
@@ -2559,7 +2569,7 @@ entries:
     version: 2.0.9
   - apiVersion: v2
     appVersion: 2.0.8
-    created: "2024-12-04T09:53:59.902155865Z"
+    created: "2024-12-04T10:51:17.935953754Z"
     description: A Helm chart for Kubernetes
     digest: c51285883387c4a034a866d562075e4aca193f2accc43f80e7032495e68aefc1
     name: yatai-image-builder-crds
@@ -2569,7 +2579,7 @@ entries:
     version: 2.0.8
   - apiVersion: v2
     appVersion: 2.0.7
-    created: "2024-12-04T09:53:59.90173015Z"
+    created: "2024-12-04T10:51:17.935471396Z"
     description: A Helm chart for Kubernetes
     digest: 445e48a1f3d9edc2d3a7b0f9403217e37118a7fc41ec4d4d8f5ddd2fd13b1033
     name: yatai-image-builder-crds
@@ -2579,7 +2589,7 @@ entries:
     version: 2.0.7
   - apiVersion: v2
     appVersion: 2.0.6
-    created: "2024-12-04T09:53:59.901303652Z"
+    created: "2024-12-04T10:51:17.934463368Z"
     description: A Helm chart for Kubernetes
     digest: 11a3a61febb1d5d8465e9de467fb1f2e18967765fcecfee1ba81db173103329c
     name: yatai-image-builder-crds
@@ -2589,7 +2599,7 @@ entries:
     version: 2.0.6
   - apiVersion: v2
     appVersion: 2.0.5
-    created: "2024-12-04T09:53:59.900877766Z"
+    created: "2024-12-04T10:51:17.93402389Z"
     description: A Helm chart for Kubernetes
     digest: fbdb5d8a87f3bee298a5841a567472b2dc99f6ae0e8ac1e2d92dd7226b667e9f
     name: yatai-image-builder-crds
@@ -2599,7 +2609,7 @@ entries:
     version: 2.0.5
   - apiVersion: v2
     appVersion: 2.0.4
-    created: "2024-12-04T09:53:59.900412947Z"
+    created: "2024-12-04T10:51:17.933594251Z"
     description: A Helm chart for Kubernetes
     digest: e46d4f3ab54b181f4f78896dfaf192009758dd05a4a63a7183eb0cf0c2f51e39
     name: yatai-image-builder-crds
@@ -2609,7 +2619,7 @@ entries:
     version: 2.0.4
   - apiVersion: v2
     appVersion: 2.0.3
-    created: "2024-12-04T09:53:59.899857218Z"
+    created: "2024-12-04T10:51:17.933118245Z"
     description: A Helm chart for Kubernetes
     digest: a7670108567b5548a2caa75d6967bc27585a3131fa07913dd589c3893602400a
     name: yatai-image-builder-crds
@@ -2619,7 +2629,7 @@ entries:
     version: 2.0.3
   - apiVersion: v2
     appVersion: 2.0.2
-    created: "2024-12-04T09:53:59.898881995Z"
+    created: "2024-12-04T10:51:17.932694727Z"
     description: A Helm chart for Kubernetes
     digest: c566aa6ed4de613ca60f67ff408ee47e3297f24b9dd2b6e14b3b19f96e308644
     name: yatai-image-builder-crds
@@ -2629,7 +2639,7 @@ entries:
     version: 2.0.2
   - apiVersion: v2
     appVersion: 2.0.1
-    created: "2024-12-04T09:53:59.898442273Z"
+    created: "2024-12-04T10:51:17.932254267Z"
     description: A Helm chart for Kubernetes
     digest: 23ad2b92857e7b599648b33275507680f1208927926157d008ef434c88f605f7
     name: yatai-image-builder-crds
@@ -2639,7 +2649,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-12-04T09:53:59.898016708Z"
+    created: "2024-12-04T10:51:17.931807846Z"
     description: A Helm chart for Kubernetes
     digest: 9222bdebe6987e8cbb5a3453814b2dfaabef8cbdcd97684519a104a10e517e0f
     name: yatai-image-builder-crds
@@ -2649,7 +2659,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.2.53
-    created: "2024-12-04T09:53:59.895881366Z"
+    created: "2024-12-04T10:51:17.929093094Z"
     description: A Helm chart for Kubernetes
     digest: 73276f13e86d9864cce553581c42e82c509c64da8e4edb1684d2362980307019
     name: yatai-image-builder-crds
@@ -2659,7 +2669,7 @@ entries:
     version: 1.2.53
   - apiVersion: v2
     appVersion: 1.2.52
-    created: "2024-12-04T09:53:59.895451813Z"
+    created: "2024-12-04T10:51:17.928663835Z"
     description: A Helm chart for Kubernetes
     digest: 491ef506bbf515b51684805038cd14f1c499e5d1934e72cb0b9d2051d7879638
     name: yatai-image-builder-crds
@@ -2669,7 +2679,7 @@ entries:
     version: 1.2.52
   - apiVersion: v2
     appVersion: 1.2.51
-    created: "2024-12-04T09:53:59.895007492Z"
+    created: "2024-12-04T10:51:17.92821507Z"
     description: A Helm chart for Kubernetes
     digest: 967caf260f762485a77592e0862aaeb04b2872001b2fb866dd0a1d18a3e4d192
     name: yatai-image-builder-crds
@@ -2679,7 +2689,7 @@ entries:
     version: 1.2.51
   - apiVersion: v2
     appVersion: 1.2.50
-    created: "2024-12-04T09:53:59.894299158Z"
+    created: "2024-12-04T10:51:17.927789839Z"
     description: A Helm chart for Kubernetes
     digest: 2cdee69eddf66c2871a6d66bf88c5e7451196469fdd5bae6ca7ae7b1e232cc74
     name: yatai-image-builder-crds
@@ -2689,7 +2699,7 @@ entries:
     version: 1.2.50
   - apiVersion: v2
     appVersion: 1.2.49
-    created: "2024-12-04T09:53:59.893006983Z"
+    created: "2024-12-04T10:51:17.926910833Z"
     description: A Helm chart for Kubernetes
     digest: f81222df5c1c0924446aded0128f456afd627512c3906e8222d46226ad70b315
     name: yatai-image-builder-crds
@@ -2699,7 +2709,7 @@ entries:
     version: 1.2.49
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-12-04T09:53:59.892574444Z"
+    created: "2024-12-04T10:51:17.926478288Z"
     description: A Helm chart for Kubernetes
     digest: d8c28277ed7271cb29e3c98fc2a942139681a1aed0cef7f7936839c811f29ed4
     name: yatai-image-builder-crds
@@ -2709,7 +2719,7 @@ entries:
     version: 1.2.48
   - apiVersion: v2
     appVersion: 1.2.47
-    created: "2024-12-04T09:53:59.892108553Z"
+    created: "2024-12-04T10:51:17.926021047Z"
     description: A Helm chart for Kubernetes
     digest: f6367874bc0335a25f27e3a57dac35edecaf494c740449fc50ef8494808f7ae2
     name: yatai-image-builder-crds
@@ -2719,7 +2729,7 @@ entries:
     version: 1.2.47
   - apiVersion: v2
     appVersion: 1.2.46
-    created: "2024-12-04T09:53:59.891669602Z"
+    created: "2024-12-04T10:51:17.925552144Z"
     description: A Helm chart for Kubernetes
     digest: cb0ada8ef012e3f523a36b7d865127799e5ac1677ea33aa912937a6b6eac0893
     name: yatai-image-builder-crds
@@ -2729,7 +2739,7 @@ entries:
     version: 1.2.46
   - apiVersion: v2
     appVersion: 1.2.45
-    created: "2024-12-04T09:53:59.891238045Z"
+    created: "2024-12-04T10:51:17.924922099Z"
     description: A Helm chart for Kubernetes
     digest: 81a33fd3d01a869a67cb1cc16e439888d08aaf1dcad9eb1710143eb84f6cbca6
     name: yatai-image-builder-crds
@@ -2739,7 +2749,7 @@ entries:
     version: 1.2.45
   - apiVersion: v2
     appVersion: 1.2.44
-    created: "2024-12-04T09:53:59.890656508Z"
+    created: "2024-12-04T10:51:17.924074652Z"
     description: A Helm chart for Kubernetes
     digest: c66a7f8bcaa7b341d6091903fb2f615ce5e2367fe544e7fbd6f4a98c60c62a6c
     name: yatai-image-builder-crds
@@ -2749,7 +2759,7 @@ entries:
     version: 1.2.44
   - apiVersion: v2
     appVersion: 1.2.43
-    created: "2024-12-04T09:53:59.889994992Z"
+    created: "2024-12-04T10:51:17.923644471Z"
     description: A Helm chart for Kubernetes
     digest: 6709687d5c1f048af09bf5168652a91ded36b25ba65a16210b8ceff77af1a871
     name: yatai-image-builder-crds
@@ -2759,7 +2769,7 @@ entries:
     version: 1.2.43
   - apiVersion: v2
     appVersion: 1.2.42
-    created: "2024-12-04T09:53:59.889494616Z"
+    created: "2024-12-04T10:51:17.92319265Z"
     description: A Helm chart for Kubernetes
     digest: 8ef9415545739762b7f9bcb3bd71489c90191d8d445ed5774bd093efb63eaa94
     name: yatai-image-builder-crds
@@ -2769,7 +2779,7 @@ entries:
     version: 1.2.42
   - apiVersion: v2
     appVersion: 1.2.41
-    created: "2024-12-04T09:53:59.889057319Z"
+    created: "2024-12-04T10:51:17.922764744Z"
     description: A Helm chart for Kubernetes
     digest: 0c803243a852237dd504409449ec9abf3ae57fbd8a92efe84e3e675b1ebbe333
     name: yatai-image-builder-crds
@@ -2779,7 +2789,7 @@ entries:
     version: 1.2.41
   - apiVersion: v2
     appVersion: 1.2.40
-    created: "2024-12-04T09:53:59.888302962Z"
+    created: "2024-12-04T10:51:17.922328552Z"
     description: A Helm chart for Kubernetes
     digest: 238d5b8ccf2459cd9b9c287e44fb019e47b928ae794d76d3e178a6a843052ecf
     name: yatai-image-builder-crds
@@ -2789,7 +2799,7 @@ entries:
     version: 1.2.40
   - apiVersion: v2
     appVersion: 1.2.39
-    created: "2024-12-04T09:53:59.887218695Z"
+    created: "2024-12-04T10:51:17.921462631Z"
     description: A Helm chart for Kubernetes
     digest: 78351f02f341ff207b06c6b7d0450271ce27cac5802be81bf44a09689d8f5e9c
     name: yatai-image-builder-crds
@@ -2799,7 +2809,7 @@ entries:
     version: 1.2.39
   - apiVersion: v2
     appVersion: 1.2.38
-    created: "2024-12-04T09:53:59.886786176Z"
+    created: "2024-12-04T10:51:17.920976486Z"
     description: A Helm chart for Kubernetes
     digest: 2b1d83f67828436633b59f6ed0a2dbb1884c52104b21f28d918cf7eb27acecaa
     name: yatai-image-builder-crds
@@ -2809,7 +2819,7 @@ entries:
     version: 1.2.38
   - apiVersion: v2
     appVersion: 1.2.37
-    created: "2024-12-04T09:53:59.886362765Z"
+    created: "2024-12-04T10:51:17.920524715Z"
     description: A Helm chart for Kubernetes
     digest: 1d9feaac4629f3a9d7214aecb6f58b47da5c1c9fa4671c047416e0bad3200612
     name: yatai-image-builder-crds
@@ -2819,7 +2829,7 @@ entries:
     version: 1.2.37
   - apiVersion: v2
     appVersion: 1.2.36
-    created: "2024-12-04T09:53:59.885935235Z"
+    created: "2024-12-04T10:51:17.919925954Z"
     description: A Helm chart for Kubernetes
     digest: de449102a63feb1d6410f22ea528a7ebbb4ba2bf84159a7ced92e8d33cc6e8cd
     name: yatai-image-builder-crds
@@ -2829,7 +2839,7 @@ entries:
     version: 1.2.36
   - apiVersion: v2
     appVersion: 1.2.35
-    created: "2024-12-04T09:53:59.885524257Z"
+    created: "2024-12-04T10:51:17.919094924Z"
     description: A Helm chart for Kubernetes
     digest: 10b156c054692a281c5f9f44f03ce679e56c48e6841e51b924c94afd331df76c
     name: yatai-image-builder-crds
@@ -2839,7 +2849,7 @@ entries:
     version: 1.2.35
   - apiVersion: v2
     appVersion: 1.2.34
-    created: "2024-12-04T09:53:59.8851192Z"
+    created: "2024-12-04T10:51:17.918683158Z"
     description: A Helm chart for Kubernetes
     digest: 16559655077e475dd8687032431c869ffb3a2e38978b2cd80cf97ea6b1328c7c
     name: yatai-image-builder-crds
@@ -2849,7 +2859,7 @@ entries:
     version: 1.2.34
   - apiVersion: v2
     appVersion: 1.2.33
-    created: "2024-12-04T09:53:59.884711217Z"
+    created: "2024-12-04T10:51:17.918271412Z"
     description: A Helm chart for Kubernetes
     digest: 73fb3384c71ccdc16a8bdb2eb943ec6b65537f03684b1af0b5872dc73d0318f1
     name: yatai-image-builder-crds
@@ -2859,7 +2869,7 @@ entries:
     version: 1.2.33
   - apiVersion: v2
     appVersion: 1.2.32
-    created: "2024-12-04T09:53:59.884258581Z"
+    created: "2024-12-04T10:51:17.917863152Z"
     description: A Helm chart for Kubernetes
     digest: 6ffc6ffc599b74d5786501539b0c8b233a9effc44034fb07ae67f96aebf7eee4
     name: yatai-image-builder-crds
@@ -2869,7 +2879,7 @@ entries:
     version: 1.2.32
   - apiVersion: v2
     appVersion: 1.2.31
-    created: "2024-12-04T09:53:59.883556198Z"
+    created: "2024-12-04T10:51:17.917446817Z"
     description: A Helm chart for Kubernetes
     digest: 7f6e1018c299f505515c1ab8c60cb45495d82c4270ad55908b8cd1be0ab9cff9
     name: yatai-image-builder-crds
@@ -2879,7 +2889,7 @@ entries:
     version: 1.2.31
   - apiVersion: v2
     appVersion: 1.2.30
-    created: "2024-12-04T09:53:59.882890955Z"
+    created: "2024-12-04T10:51:17.916987302Z"
     description: A Helm chart for Kubernetes
     digest: 7ab705611c9205833e5fb5ebf4d187333d08bf1ca41b8ef1eb969abd3ea3f057
     name: yatai-image-builder-crds
@@ -2889,7 +2899,7 @@ entries:
     version: 1.2.30
   - apiVersion: v2
     appVersion: 1.2.29
-    created: "2024-12-04T09:53:59.882074308Z"
+    created: "2024-12-04T10:51:17.916165483Z"
     description: A Helm chart for Kubernetes
     digest: 9f9e5f86e9f189775becfed3224e95f70ee188c0cf3afed2387e4e20c27462a7
     name: yatai-image-builder-crds
@@ -2899,7 +2909,7 @@ entries:
     version: 1.2.29
   - apiVersion: v2
     appVersion: 1.2.28
-    created: "2024-12-04T09:53:59.881621211Z"
+    created: "2024-12-04T10:51:17.915747685Z"
     description: A Helm chart for Kubernetes
     digest: ff3d11e1687874bb607a6aee83ecf03ab2460dbadbceb37b0530d00738e42e4e
     name: yatai-image-builder-crds
@@ -2909,7 +2919,7 @@ entries:
     version: 1.2.28
   - apiVersion: v2
     appVersion: 1.2.27
-    created: "2024-12-04T09:53:59.881217917Z"
+    created: "2024-12-04T10:51:17.91530973Z"
     description: A Helm chart for Kubernetes
     digest: b4a86d67aad9b7fa0bc8cdbee8d3757f07a40767cb7b83897a9d7844de4c6c9c
     name: yatai-image-builder-crds
@@ -2919,7 +2929,7 @@ entries:
     version: 1.2.27
   - apiVersion: v2
     appVersion: 1.2.26
-    created: "2024-12-04T09:53:59.880811698Z"
+    created: "2024-12-04T10:51:17.914505277Z"
     description: A Helm chart for Kubernetes
     digest: c9c6f127a67bc814f2c2361460b4b3aba2e85b81d1103c3a68b61625bb462b41
     name: yatai-image-builder-crds
@@ -2929,7 +2939,7 @@ entries:
     version: 1.2.26
   - apiVersion: v2
     appVersion: 1.2.25
-    created: "2024-12-04T09:53:59.880350125Z"
+    created: "2024-12-04T10:51:17.913844156Z"
     description: A Helm chart for Kubernetes
     digest: 737e735c76eecdb330eba9449688e8a977cc397e26c5b1873e71efbf6847aea2
     name: yatai-image-builder-crds
@@ -2939,7 +2949,7 @@ entries:
     version: 1.2.25
   - apiVersion: v2
     appVersion: 1.2.24
-    created: "2024-12-04T09:53:59.879913679Z"
+    created: "2024-12-04T10:51:17.913430386Z"
     description: A Helm chart for Kubernetes
     digest: 8c649281bf8fd07c4567b4c355da814161716847915da01140b082d128bfdcab
     name: yatai-image-builder-crds
@@ -2949,7 +2959,7 @@ entries:
     version: 1.2.24
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-12-04T09:53:59.879466814Z"
+    created: "2024-12-04T10:51:17.912985679Z"
     description: A Helm chart for Kubernetes
     digest: 1212df3e873a8e70533ad239355ce78f76707d7735f5e47e3b7103a4c1baba7b
     name: yatai-image-builder-crds
@@ -2959,7 +2969,7 @@ entries:
     version: 1.2.23
   - apiVersion: v2
     appVersion: 1.2.22
-    created: "2024-12-04T09:53:59.879025178Z"
+    created: "2024-12-04T10:51:17.912574444Z"
     description: A Helm chart for Kubernetes
     digest: df0d292adf4680aaeb873d88ad70d4cdfd0f8a81a002314101b72b1eff562611
     name: yatai-image-builder-crds
@@ -2969,7 +2979,7 @@ entries:
     version: 1.2.22
   - apiVersion: v2
     appVersion: 1.2.21
-    created: "2024-12-04T09:53:59.878201214Z"
+    created: "2024-12-04T10:51:17.912152639Z"
     description: A Helm chart for Kubernetes
     digest: 1786da376479fd4482e181dba3992541ff8cc7d40c8d90f7ba23a7fe9f165cbf
     name: yatai-image-builder-crds
@@ -2979,7 +2989,7 @@ entries:
     version: 1.2.21
   - apiVersion: v2
     appVersion: 1.2.20
-    created: "2024-12-04T09:53:59.877565651Z"
+    created: "2024-12-04T10:51:17.911739059Z"
     description: A Helm chart for Kubernetes
     digest: 401d0e94f708bb053b7b260dab371f55c6c894f5ac091ec1e185a438161967de
     name: yatai-image-builder-crds
@@ -2989,7 +2999,7 @@ entries:
     version: 1.2.20
   - apiVersion: v2
     appVersion: 1.2.19
-    created: "2024-12-04T09:53:59.876716855Z"
+    created: "2024-12-04T10:51:17.910894387Z"
     description: A Helm chart for Kubernetes
     digest: 02291ffbee4e386e32cbf4d50af0ba45ecfd0f17f75f51789499e5cdc2240cd4
     name: yatai-image-builder-crds
@@ -2999,7 +3009,7 @@ entries:
     version: 1.2.19
   - apiVersion: v2
     appVersion: 1.2.18
-    created: "2024-12-04T09:53:59.876277493Z"
+    created: "2024-12-04T10:51:17.910442245Z"
     description: A Helm chart for Kubernetes
     digest: fa0bc32a6d93decd40faf2df824a1ce0850926fdd07c898a284c7825fc71c228
     name: yatai-image-builder-crds
@@ -3009,7 +3019,7 @@ entries:
     version: 1.2.18
   - apiVersion: v2
     appVersion: 1.2.17
-    created: "2024-12-04T09:53:59.875872306Z"
+    created: "2024-12-04T10:51:17.909732244Z"
     description: A Helm chart for Kubernetes
     digest: 4f60da84e8751d9026fb608960a3def0a0d43a4d7327b7329bd988c4e6cedba7
     name: yatai-image-builder-crds
@@ -3019,7 +3029,7 @@ entries:
     version: 1.2.17
   - apiVersion: v2
     appVersion: 1.2.16
-    created: "2024-12-04T09:53:59.875468791Z"
+    created: "2024-12-04T10:51:17.908982198Z"
     description: A Helm chart for Kubernetes
     digest: 3878073dec3cd5987f8a3d885b34b5ab1e534cc8f4f92bf90cb335b9a3c3106b
     name: yatai-image-builder-crds
@@ -3029,7 +3039,7 @@ entries:
     version: 1.2.16
   - apiVersion: v2
     appVersion: 1.2.15
-    created: "2024-12-04T09:53:59.875059947Z"
+    created: "2024-12-04T10:51:17.90856931Z"
     description: A Helm chart for Kubernetes
     digest: 21de543e291ec5c9c34fdb4537e356535cc7cbde6deb28e3ed144d840b179da3
     name: yatai-image-builder-crds
@@ -3039,7 +3049,7 @@ entries:
     version: 1.2.15
   - apiVersion: v2
     appVersion: 1.2.14
-    created: "2024-12-04T09:53:59.874627579Z"
+    created: "2024-12-04T10:51:17.908150861Z"
     description: A Helm chart for Kubernetes
     digest: 984e91971ef2c0d8477c2d268cb8700ead31426a626e4cdb12657b801e13dc86
     name: yatai-image-builder-crds
@@ -3049,7 +3059,7 @@ entries:
     version: 1.2.14
   - apiVersion: v2
     appVersion: 1.2.13
-    created: "2024-12-04T09:53:59.874198997Z"
+    created: "2024-12-04T10:51:17.907735979Z"
     description: A Helm chart for Kubernetes
     digest: e7f838019d058beb8a020d38f0017bee87172a94ae9c6a6d8e51a859f57cddd5
     name: yatai-image-builder-crds
@@ -3059,7 +3069,7 @@ entries:
     version: 1.2.13
   - apiVersion: v2
     appVersion: 1.2.12
-    created: "2024-12-04T09:53:59.873551796Z"
+    created: "2024-12-04T10:51:17.907329964Z"
     description: A Helm chart for Kubernetes
     digest: 5ff0718b6fceff160dbc3c5985981ecada7ccefae8176a99f013cf4ad60666da
     name: yatai-image-builder-crds
@@ -3069,7 +3079,7 @@ entries:
     version: 1.2.12
   - apiVersion: v2
     appVersion: 1.2.11
-    created: "2024-12-04T09:53:59.87279979Z"
+    created: "2024-12-04T10:51:17.906916173Z"
     description: A Helm chart for Kubernetes
     digest: 667ba6f906c69f07f6b3a956cf39b75680aefa034de34098a3b9a36a6eb084be
     name: yatai-image-builder-crds
@@ -3079,7 +3089,7 @@ entries:
     version: 1.2.11
   - apiVersion: v2
     appVersion: 1.2.10
-    created: "2024-12-04T09:53:59.872358445Z"
+    created: "2024-12-04T10:51:17.906504557Z"
     description: A Helm chart for Kubernetes
     digest: 804982f9b71b7112cbb09767fe13d04c0f9f9d11fff85a5c82635d2a7eed72dc
     name: yatai-image-builder-crds
@@ -3089,7 +3099,7 @@ entries:
     version: 1.2.10
   - apiVersion: v2
     appVersion: 1.2.9
-    created: "2024-12-04T09:53:59.897566376Z"
+    created: "2024-12-04T10:51:17.93138022Z"
     description: A Helm chart for Kubernetes
     digest: 86ae2216addd9ad98e667d2848ac432b58321f572f8396ae7eff38435ccf1e66
     name: yatai-image-builder-crds
@@ -3099,7 +3109,7 @@ entries:
     version: 1.2.9
   - apiVersion: v2
     appVersion: 1.2.8
-    created: "2024-12-04T09:53:59.897162561Z"
+    created: "2024-12-04T10:51:17.930947475Z"
     description: A Helm chart for Kubernetes
     digest: 469602932951fc5723b7a678ec7ebfee786c4dd2f8cb9e3d457b225d702b5df8
     name: yatai-image-builder-crds
@@ -3109,7 +3119,7 @@ entries:
     version: 1.2.8
   - apiVersion: v2
     appVersion: 1.2.7
-    created: "2024-12-04T09:53:59.896755039Z"
+    created: "2024-12-04T10:51:17.930522003Z"
     description: A Helm chart for Kubernetes
     digest: b9215d9e89358f16a9bee1455633cd322318562975edac010991886e53cc8f67
     name: yatai-image-builder-crds
@@ -3119,7 +3129,7 @@ entries:
     version: 1.2.7
   - apiVersion: v2
     appVersion: 1.2.6
-    created: "2024-12-04T09:53:59.896295981Z"
+    created: "2024-12-04T10:51:17.929840024Z"
     description: A Helm chart for Kubernetes
     digest: cf9d54ece7acb482855289949f41082a18e5d259a3e93083a2c522c3254d0027
     name: yatai-image-builder-crds
@@ -3129,7 +3139,7 @@ entries:
     version: 1.2.6
   - apiVersion: v2
     appVersion: 1.2.5
-    created: "2024-12-04T09:53:59.893436866Z"
+    created: "2024-12-04T10:51:17.927359467Z"
     description: A Helm chart for Kubernetes
     digest: 6aa487bb9e49d29e0f7d9daa11fbc3eda5577da6078d45686e066b55f6c41f13
     name: yatai-image-builder-crds
@@ -3139,7 +3149,7 @@ entries:
     version: 1.2.5
   - apiVersion: v2
     appVersion: 1.2.4
-    created: "2024-12-04T09:53:59.887632268Z"
+    created: "2024-12-04T10:51:17.921879216Z"
     description: A Helm chart for Kubernetes
     digest: 7a6c6b0b6d8a3c7e3f147e76d980c10e3d9bb6c9692d2d3b8e60718266c49818
     name: yatai-image-builder-crds
@@ -3149,7 +3159,7 @@ entries:
     version: 1.2.4
   - apiVersion: v2
     appVersion: 1.2.3
-    created: "2024-12-04T09:53:59.882485437Z"
+    created: "2024-12-04T10:51:17.916577129Z"
     description: A Helm chart for Kubernetes
     digest: e4bf275f4db9418af54ee2dd2fe526f2204f3b1d68f8d73d8524a5e6c2c3aec0
     name: yatai-image-builder-crds
@@ -3159,7 +3169,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 1.2.2
-    created: "2024-12-04T09:53:59.877154854Z"
+    created: "2024-12-04T10:51:17.911321442Z"
     description: A Helm chart for Kubernetes
     digest: ed6b7cf127f79bd50d33153f33064008632051cffc2a74226a51f8d6825010b3
     name: yatai-image-builder-crds
@@ -3169,7 +3179,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2024-12-04T09:53:59.871920816Z"
+    created: "2024-12-04T10:51:17.906089565Z"
     description: A Helm chart for Kubernetes
     digest: fe7279610dc32db9045b0fe12bb0ab5f6eaf4a550d82c4929a9a5e07025c7fda
     name: yatai-image-builder-crds
@@ -3179,7 +3189,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-12-04T09:53:59.87152167Z"
+    created: "2024-12-04T10:51:17.905677498Z"
     description: A Helm chart for Kubernetes
     digest: 00e4b9b369d86b0a7c5751662cdc7cb92c6e52b1011cd028ed8e5b46dd24cb75
     name: yatai-image-builder-crds
@@ -3189,7 +3199,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.25
-    created: "2024-12-04T09:53:59.867569284Z"
+    created: "2024-12-04T10:51:17.900936065Z"
     description: A Helm chart for Kubernetes
     digest: 67e510b5b5204175a68cdabb52db8a6b8fd9af3fa8a0ed33e5357bcb93198fee
     name: yatai-image-builder-crds
@@ -3199,7 +3209,7 @@ entries:
     version: 1.1.25
   - apiVersion: v2
     appVersion: 1.1.24
-    created: "2024-12-04T09:53:59.867114553Z"
+    created: "2024-12-04T10:51:17.900532414Z"
     description: A Helm chart for Kubernetes
     digest: 0a46c076e49bddf95e8ef2b8cf6e4071dae06fd6c2fd60adf1ed04b21a885575
     name: yatai-image-builder-crds
@@ -3209,7 +3219,7 @@ entries:
     version: 1.1.24
   - apiVersion: v2
     appVersion: 1.1.23
-    created: "2024-12-04T09:53:59.866712642Z"
+    created: "2024-12-04T10:51:17.900126318Z"
     description: A Helm chart for Kubernetes
     digest: 31fe7868c6d42707e80660f5e1bc22dd72e4990b5d64b917f88f4f0d835f1715
     name: yatai-image-builder-crds
@@ -3219,7 +3229,7 @@ entries:
     version: 1.1.23
   - apiVersion: v2
     appVersion: 1.1.22
-    created: "2024-12-04T09:53:59.866310049Z"
+    created: "2024-12-04T10:51:17.899715073Z"
     description: A Helm chart for Kubernetes
     digest: b638a666bdb48cef3f737dca5990aaf291512bc9d0775c248fd1a55dc1e2d7d2
     name: yatai-image-builder-crds
@@ -3229,7 +3239,7 @@ entries:
     version: 1.1.22
   - apiVersion: v2
     appVersion: 1.1.21
-    created: "2024-12-04T09:53:59.865888772Z"
+    created: "2024-12-04T10:51:17.899261959Z"
     description: A Helm chart for Kubernetes
     digest: 3a5730d9ca43c52c2ade72eb2f49e5b076d430675e11042f2ff0cfaad9daa591
     name: yatai-image-builder-crds
@@ -3239,7 +3249,7 @@ entries:
     version: 1.1.21
   - apiVersion: v2
     appVersion: 1.1.20
-    created: "2024-12-04T09:53:59.865480539Z"
+    created: "2024-12-04T10:51:17.898817482Z"
     description: A Helm chart for Kubernetes
     digest: 8282c396cbad740d49a8df1d5717cfea00a5005e35fbfcbe57f5b330f3b473da
     name: yatai-image-builder-crds
@@ -3249,7 +3259,7 @@ entries:
     version: 1.1.20
   - apiVersion: v2
     appVersion: 1.1.19
-    created: "2024-12-04T09:53:59.864512379Z"
+    created: "2024-12-04T10:51:17.897279392Z"
     description: A Helm chart for Kubernetes
     digest: 7cded5f548cc3bdbe7443ea5d104d0edbe513622c5f5fa95e778aea240ec5b6e
     name: yatai-image-builder-crds
@@ -3259,7 +3269,7 @@ entries:
     version: 1.1.19
   - apiVersion: v2
     appVersion: 1.1.18
-    created: "2024-12-04T09:53:59.863794886Z"
+    created: "2024-12-04T10:51:17.896814677Z"
     description: A Helm chart for Kubernetes
     digest: 50263320f9ec148292fbdab5c2cb5ced18abe909bc40b9ce183ab5aa27d84539
     name: yatai-image-builder-crds
@@ -3269,7 +3279,7 @@ entries:
     version: 1.1.18
   - apiVersion: v2
     appVersion: 1.1.17
-    created: "2024-12-04T09:53:59.863074168Z"
+    created: "2024-12-04T10:51:17.896393664Z"
     description: A Helm chart for Kubernetes
     digest: 89af10c7edb058f7727a35093aff0e7705f6bc47a3d43ef93e1515b1b94512b6
     name: yatai-image-builder-crds
@@ -3279,7 +3289,7 @@ entries:
     version: 1.1.17
   - apiVersion: v2
     appVersion: 1.1.16
-    created: "2024-12-04T09:53:59.862662399Z"
+    created: "2024-12-04T10:51:17.895926664Z"
     description: A Helm chart for Kubernetes
     digest: 187a81a8bdc87680b9a70faf532ac7592d4656957c6a01f02dcbd98ff2ecbc2a
     name: yatai-image-builder-crds
@@ -3289,7 +3299,7 @@ entries:
     version: 1.1.16
   - apiVersion: v2
     appVersion: 1.1.15
-    created: "2024-12-04T09:53:59.862210023Z"
+    created: "2024-12-04T10:51:17.895515089Z"
     description: A Helm chart for Kubernetes
     digest: 8a36d0fa8b92e0c8554cf1561272b222480d5f3c097e0df4297cc000eaa7f08e
     name: yatai-image-builder-crds
@@ -3299,7 +3309,7 @@ entries:
     version: 1.1.15
   - apiVersion: v2
     appVersion: 1.1.14
-    created: "2024-12-04T09:53:59.861804615Z"
+    created: "2024-12-04T10:51:17.895108281Z"
     description: A Helm chart for Kubernetes
     digest: 867155ebd7a36117bbbaa1ef4a23b624cdc7a72d2e83a5924907cd8b66fd4d08
     name: yatai-image-builder-crds
@@ -3309,7 +3319,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: 1.1.13
-    created: "2024-12-04T09:53:59.861396041Z"
+    created: "2024-12-04T10:51:17.894663464Z"
     description: A Helm chart for Kubernetes
     digest: 872de4d37cf64f08f1a55de425fdc849153efd9c4a9b978b2cc92beb841bc7a9
     name: yatai-image-builder-crds
@@ -3319,7 +3329,7 @@ entries:
     version: 1.1.13
   - apiVersion: v2
     appVersion: 1.1.12
-    created: "2024-12-04T09:53:59.860970376Z"
+    created: "2024-12-04T10:51:17.89423724Z"
     description: A Helm chart for Kubernetes
     digest: 66b37ceabc4df91b91fb52cc1f4ac742b52abdc9f11c5d9e1efdff764e6c9f0a
     name: yatai-image-builder-crds
@@ -3329,7 +3339,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 1.1.11
-    created: "2024-12-04T09:53:59.860525734Z"
+    created: "2024-12-04T10:51:17.893816718Z"
     description: A Helm chart for Kubernetes
     digest: a1e4b954d4388ab9fc3800c3b41905d04d21516317a3aa03f42648bd2ea9259d
     name: yatai-image-builder-crds
@@ -3339,7 +3349,7 @@ entries:
     version: 1.1.11
   - apiVersion: v2
     appVersion: 1.1.10
-    created: "2024-12-04T09:53:59.860087215Z"
+    created: "2024-12-04T10:51:17.893384714Z"
     description: A Helm chart for Kubernetes
     digest: 03bfaeb77b7d3a4e099cc431d5c65843e9c10d21908cee540e42c919ded8ce09
     name: yatai-image-builder-crds
@@ -3349,7 +3359,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 1.1.9
-    created: "2024-12-04T09:53:59.871107696Z"
+    created: "2024-12-04T10:51:17.905234955Z"
     description: A Helm chart for Kubernetes
     digest: 5d179b4e094bbf85ab9725df51a4b5940da985137a3330e9ce88408a790fe5a0
     name: yatai-image-builder-crds
@@ -3359,7 +3369,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 1.1.8
-    created: "2024-12-04T09:53:59.870705905Z"
+    created: "2024-12-04T10:51:17.904496691Z"
     description: A Helm chart for Kubernetes
     digest: 0d668768e31f8a9918598236ec4e431c406dcfe5b9458b8d4eaab7ed35ed51d0
     name: yatai-image-builder-crds
@@ -3369,7 +3379,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 1.1.7
-    created: "2024-12-04T09:53:59.870299035Z"
+    created: "2024-12-04T10:51:17.903265993Z"
     description: A Helm chart for Kubernetes
     digest: dda430a31f66ec1d419eda6f3025dac7ab3476a01aa64752c7d0311b65c448af
     name: yatai-image-builder-crds
@@ -3379,7 +3389,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
-    created: "2024-12-04T09:53:59.869851017Z"
+    created: "2024-12-04T10:51:17.902615671Z"
     description: A Helm chart for Kubernetes
     digest: 6c741f674f68439f52849e8da26d8cd2782e57b7f754a9a65fc0659cdfb753e8
     name: yatai-image-builder-crds
@@ -3389,7 +3399,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
-    created: "2024-12-04T09:53:59.869427255Z"
+    created: "2024-12-04T10:51:17.902207962Z"
     description: A Helm chart for Kubernetes
     digest: 1390593310e2d03894cf5145981b5e7908b0c4f2da7bedac8e8eb52cf3da856b
     name: yatai-image-builder-crds
@@ -3399,7 +3409,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2024-12-04T09:53:59.868822025Z"
+    created: "2024-12-04T10:51:17.901792529Z"
     description: A Helm chart for Kubernetes
     digest: 4323d223f0bad04946bbfd62137a4ec6cedaee83117813764ae62ef798b0aa71
     name: yatai-image-builder-crds
@@ -3409,7 +3419,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2024-12-04T09:53:59.86797902Z"
+    created: "2024-12-04T10:51:17.901376425Z"
     description: A Helm chart for Kubernetes
     digest: 82ed678d3d21af3ceaceedb74b97e8e04e8c79d9648dd268938e305970215314
     name: yatai-image-builder-crds
@@ -3419,7 +3429,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2024-12-04T09:53:59.865016541Z"
+    created: "2024-12-04T10:51:17.898085532Z"
     description: A Helm chart for Kubernetes
     digest: 68789b74f4c3c49b73076ae0761914de3246ed76c7388d1e28cdbcb7be495503
     name: yatai-image-builder-crds
@@ -3429,7 +3439,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-12-04T09:53:59.859634548Z"
+    created: "2024-12-04T10:51:17.892628201Z"
     description: A Helm chart for Kubernetes
     digest: bf8125b3b7425bbbeaeb4e1c64828909a65e0713790640c6d706b1c7b95de998
     name: yatai-image-builder-crds
@@ -3439,7 +3449,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-12-04T09:53:59.858796221Z"
+    created: "2024-12-04T10:51:17.891566285Z"
     description: A Helm chart for Kubernetes
     digest: 872d46ba3c591379aed77c7beeeca9944194b36f43c18957b87bd3c3ec3b273a
     name: yatai-image-builder-crds
@@ -3450,7 +3460,7 @@ entries:
   yatai-serverless:
   - apiVersion: v2
     appVersion: 0.0.9
-    created: "2024-12-04T09:53:59.920149707Z"
+    created: "2024-12-04T10:51:17.954275134Z"
     description: The deployment component for Yatai
     digest: fdf5da39e2d5bdf698439542e0d0e109e1c0752b6029f4e6b5382017b211c3bf
     name: yatai-serverless
@@ -3460,7 +3470,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.8
-    created: "2024-12-04T09:53:59.919432546Z"
+    created: "2024-12-04T10:51:17.953553701Z"
     description: The deployment component for Yatai
     digest: a2b372d7fa1304c28882d2923734b7eb47c45204a22bc0311c5d9434a4ac1da4
     name: yatai-serverless
@@ -3470,7 +3480,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2024-12-04T09:53:59.918719313Z"
+    created: "2024-12-04T10:51:17.952760154Z"
     description: The deployment component for Yatai
     digest: e6f00ce8bdd5e23efe42394ea157d36dbe7cb89929b8931a577e18932e7ce319
     name: yatai-serverless
@@ -3480,7 +3490,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2024-12-04T09:53:59.917984118Z"
+    created: "2024-12-04T10:51:17.95117523Z"
     description: The deployment component for Yatai
     digest: 84dea87ba64b99aece6aced79c41d5809248c79ad39f6d67e0ff012de310b733
     name: yatai-serverless
@@ -3490,7 +3500,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2024-12-04T09:53:59.917249956Z"
+    created: "2024-12-04T10:51:17.950474266Z"
     description: The deployment component for Yatai
     digest: 2ab4c4f2f527519499c7822a78c87c6c15582c0ba02b5aa9152edf77a0085df1
     name: yatai-serverless
@@ -3500,7 +3510,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2024-12-04T09:53:59.916196326Z"
+    created: "2024-12-04T10:51:17.949769865Z"
     description: The deployment component for Yatai
     digest: aed9737152cbb633a9484be85edba50ef2c23faf314b0438465321979a6942c6
     name: yatai-serverless
@@ -3510,7 +3520,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2024-12-04T09:53:59.91497331Z"
+    created: "2024-12-04T10:51:17.949023236Z"
     description: The deployment component for Yatai
     digest: dd9c89bae7537b0c8a8128ddca38159439aaa93e92a0ceed10e0abfd25112129
     name: yatai-serverless
@@ -3520,7 +3530,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2024-12-04T09:53:59.914238847Z"
+    created: "2024-12-04T10:51:17.948301883Z"
     description: The deployment component for Yatai
     digest: 057e072717e92dd3ad0d5867ca2baf67a21bf97fdd67c1e606dcf743f29e6510
     name: yatai-serverless
@@ -3530,7 +3540,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-12-04T09:53:59.913483305Z"
+    created: "2024-12-04T10:51:17.947586361Z"
     description: The deployment component for Yatai
     digest: 92878d733dd9f47a2a361867d3d24848dea87151748842bd33e60aa623a6e5bc
     name: yatai-serverless
@@ -3541,7 +3551,7 @@ entries:
   yatai-serverless-crds:
   - apiVersion: v2
     appVersion: 0.0.9
-    created: "2024-12-04T09:53:59.932900801Z"
+    created: "2024-12-04T10:51:17.967203697Z"
     description: A Helm chart for Kubernetes
     digest: c5bc4f4cdd160e7a6beb6ee95b18c39e4f49325a1f2a9ac76a0089e58d570479
     name: yatai-serverless-crds
@@ -3551,7 +3561,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.8
-    created: "2024-12-04T09:53:59.93157336Z"
+    created: "2024-12-04T10:51:17.965930167Z"
     description: A Helm chart for Kubernetes
     digest: 180ae32c76431bb317767d3ef5aa7867df6f7415754108a40525d8efed41f60c
     name: yatai-serverless-crds
@@ -3561,7 +3571,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2024-12-04T09:53:59.93033273Z"
+    created: "2024-12-04T10:51:17.964649554Z"
     description: A Helm chart for Kubernetes
     digest: 72ba09e1837dc63e89d5eb8c93b33c388e8d8c0c63aa3c00a3d3e6cc738f4669
     name: yatai-serverless-crds
@@ -3571,7 +3581,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2024-12-04T09:53:59.92905943Z"
+    created: "2024-12-04T10:51:17.963366125Z"
     description: A Helm chart for Kubernetes
     digest: 7f213b12eaf4b07c9a33e4780f5f9b8510648f45ba355d5062a65ef11c06fb77
     name: yatai-serverless-crds
@@ -3581,7 +3591,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2024-12-04T09:53:59.927154061Z"
+    created: "2024-12-04T10:51:17.961327021Z"
     description: A Helm chart for Kubernetes
     digest: 1f1c37ce8ae9bba40bc09f7fcd888566ea8e280be4cb72cbb7957ff04efac0d1
     name: yatai-serverless-crds
@@ -3591,7 +3601,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2024-12-04T09:53:59.925831288Z"
+    created: "2024-12-04T10:51:17.96001546Z"
     description: A Helm chart for Kubernetes
     digest: 7f8b4a12124849495107d314e0d763ea8607d0ef081c9b35d9f9a07bf09b781e
     name: yatai-serverless-crds
@@ -3601,7 +3611,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2024-12-04T09:53:59.924524716Z"
+    created: "2024-12-04T10:51:17.958717935Z"
     description: A Helm chart for Kubernetes
     digest: d8113612aa2e3db234612d905a45c5ca45eb6b7f1a1d85700405c5bde1079392
     name: yatai-serverless-crds
@@ -3611,7 +3621,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2024-12-04T09:53:59.923261103Z"
+    created: "2024-12-04T10:51:17.956863411Z"
     description: A Helm chart for Kubernetes
     digest: fb4b286fc581d6e7b08c840e5d432744b0dfbfad3ae449f06145b45570ca640f
     name: yatai-serverless-crds
@@ -3621,7 +3631,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-12-04T09:53:59.921463984Z"
+    created: "2024-12-04T10:51:17.955587606Z"
     description: A Helm chart for Kubernetes
     digest: 3939c864ae1ea02e6e1dc1bab4d308d8bcaae67f0c51598bf9c4f7b07a2d955b
     name: yatai-serverless-crds
@@ -3629,4 +3639,4 @@ entries:
     urls:
     - packages/yatai-serverless-crds-0.0.1.tgz
     version: 0.0.1
-generated: "2024-12-04T09:53:59.673535783Z"
+generated: "2024-12-04T10:51:17.663463408Z"
